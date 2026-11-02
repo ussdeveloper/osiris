@@ -1,0 +1,4925 @@
+[
+  {
+    "slug": "brzegi-morskie-oko-rysy",
+    "url": "https://wideokamery.pl/kamery/brzegi-morskie-oko-rysy/",
+    "lat": 49.20078,
+    "lng": 20.07236,
+    "name": "Brzegi: Rysy",
+    "city": "Brzegi",
+    "windyId": "1383580205"
+  },
+  {
+    "slug": "zakopane-wojewodztwo-malopolskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/zakopane-wojewodztwo-malopolskie-rzeczpospolita-polska/",
+    "lat": 49.29899,
+    "lng": 19.94885,
+    "name": "Zakopane",
+    "city": "Zakopane",
+    "windyId": "1531225795"
+  },
+  {
+    "slug": "koscielisko-czerwone-wierchy-i-giewont",
+    "url": "https://wideokamery.pl/kamery/koscielisko-czerwone-wierchy-i-giewont/",
+    "lat": 49.29412,
+    "lng": 19.90345,
+    "name": "Kościelisko: Czerwone Wierchy i Giewont",
+    "city": "Kościelisko",
+    "windyId": "1280907006"
+  },
+  {
+    "slug": "olawa-wojewodztwo-dolnoslaskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/olawa-wojewodztwo-dolnoslaskie-rzeczpospolita-polska/",
+    "lat": 50.9466,
+    "lng": 17.2926,
+    "name": "Oława",
+    "city": "Oława",
+    "windyId": "1531252514"
+  },
+  {
+    "slug": "brzegi-zakopane-morskie-oko",
+    "url": "https://wideokamery.pl/kamery/brzegi-zakopane-morskie-oko/",
+    "lat": 49.20136,
+    "lng": 20.07116,
+    "name": "Brzegi: Zakopane Morskie oko",
+    "city": "Brzegi",
+    "windyId": "1327675515"
+  },
+  {
+    "slug": "gliwice-aeroclub-2",
+    "url": "https://wideokamery.pl/kamery/gliwice-aeroclub-2/",
+    "lat": 50.27139,
+    "lng": 18.67472,
+    "name": "Gliwice: Aeroclub 2",
+    "city": "Gliwice",
+    "windyId": "1383594004"
+  },
+  {
+    "slug": "kuznice-kasprowy-wierch-dolina-gasienicowa-system-monitoringu-pogody-topr",
+    "url": "https://wideokamery.pl/kamery/kuznice-kasprowy-wierch-dolina-gasienicowa-system-monitoringu-pogody-topr/",
+    "lat": 49.23284,
+    "lng": 19.98289,
+    "name": "Kuźnice: Dolina Gąsienicowa. System moni...",
+    "city": "Kuźnice",
+    "windyId": "1364130502"
+  },
+  {
+    "slug": "zakopane-giewont-widok-na-tatry",
+    "url": "https://wideokamery.pl/kamery/zakopane-giewont-widok-na-tatry/",
+    "lat": 49.29338,
+    "lng": 19.94471,
+    "name": "Zakopane: Giewont - Widok na Tatry",
+    "city": "Zakopane",
+    "windyId": "1286437631"
+  },
+  {
+    "slug": "chalupy-south-west-chalupy-zatoka",
+    "url": "https://wideokamery.pl/kamery/chalupy-south-west-chalupy-zatoka/",
+    "lat": 54.75943,
+    "lng": 18.50494,
+    "name": "Chałupy: Zatoka",
+    "city": "Chałupy",
+    "windyId": "1590784331"
+  },
+  {
+    "slug": "olsztyn-lotnisko-dajtki",
+    "url": "https://wideokamery.pl/kamery/olsztyn-lotnisko-dajtki/",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "windyId": "1396331188"
+  },
+  {
+    "slug": "sopot-north-east-square-of-friends-of-sopot-bohaterow-monte-cassino",
+    "url": "https://wideokamery.pl/kamery/sopot-north-east-square-of-friends-of-sopot-bohaterow-monte-cassino/",
+    "lat": 54.4449,
+    "lng": 18.56821,
+    "name": "Sopot: Square of Friends of Sopot - Boha...",
+    "city": "Sopot",
+    "windyId": "1379691005"
+  },
+  {
+    "slug": "strzegom-rynek",
+    "url": "https://wideokamery.pl/kamery/strzegom-rynek/",
+    "lat": 50.96023,
+    "lng": 16.34476,
+    "name": "Strzegom: Rynek",
+    "city": "Strzegom",
+    "windyId": "1378034625"
+  },
+  {
+    "slug": "zakopane-gubalowki",
+    "url": "https://wideokamery.pl/kamery/zakopane-gubalowki/",
+    "lat": 49.29295,
+    "lng": 19.94544,
+    "name": "Zakopane: Gubalowki",
+    "city": "Zakopane",
+    "windyId": "1350084015"
+  },
+  {
+    "slug": "bukowina-tatrzanska-olczanski-wierch",
+    "url": "https://wideokamery.pl/kamery/bukowina-tatrzanska-olczanski-wierch/",
+    "lat": 49.33657,
+    "lng": 20.09017,
+    "name": "Bukowina Tatrzańska: Olczański Wierch",
+    "city": "Bukowina Tatrzańska",
+    "windyId": "1229944517"
+  },
+  {
+    "slug": "brzegi-dolina-pieciu-stawow-polskich-przedni-staw-zakopane",
+    "url": "https://wideokamery.pl/kamery/brzegi-dolina-pieciu-stawow-polskich-przedni-staw-zakopane/",
+    "lat": 49.21361,
+    "lng": 20.04857,
+    "name": "Brzegi: Polskich - Przedni Staw, Zakopan...",
+    "city": "Brzegi",
+    "windyId": "1498839060"
+  },
+  {
+    "slug": "stalowa-wola",
+    "url": "https://wideokamery.pl/kamery/stalowa-wola/",
+    "lat": 50.57699,
+    "lng": 22.06141,
+    "name": "Stalowa Wola",
+    "city": "Stalowa Wola",
+    "windyId": "1640676733"
+  },
+  {
+    "slug": "lopata-dolina-chocholowska-kamera-topr",
+    "url": "https://wideokamery.pl/kamery/lopata-dolina-chocholowska-kamera-topr/",
+    "lat": 49.23619,
+    "lng": 19.78776,
+    "name": "Lopata: Dolina Chochołowska kamera TOPR",
+    "city": "Lopata",
+    "windyId": "1336558389"
+  },
+  {
+    "slug": "leba-camping-przymorze-nr48",
+    "url": "https://wideokamery.pl/kamery/leba-camping-przymorze-nr48/",
+    "lat": 54.7654,
+    "lng": 17.57259,
+    "name": "Łeba: Camping Przymorze Nr48",
+    "city": "Łeba",
+    "windyId": "1246108385"
+  },
+  {
+    "slug": "katowice-north-katowice-muchowiec-airport",
+    "url": "https://wideokamery.pl/kamery/katowice-north-katowice-muchowiec-airport/",
+    "lat": 50.24007,
+    "lng": 19.03032,
+    "name": "Katowice: Muchowiec Airport",
+    "city": "Katowice",
+    "windyId": "1588843332"
+  },
+  {
+    "slug": "kuznice-dolina-5-stawow",
+    "url": "https://wideokamery.pl/kamery/kuznice-dolina-5-stawow/",
+    "lat": 49.21361,
+    "lng": 20.04855,
+    "name": "Kuźnice",
+    "city": "Kuźnice",
+    "windyId": "1327675358"
+  },
+  {
+    "slug": "paczkow-north-east-wojewodztwo-opolskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/paczkow-north-east-wojewodztwo-opolskie-rzeczpospolita-polska/",
+    "lat": 50.46042,
+    "lng": 16.99858,
+    "name": "Paczków",
+    "city": "Paczków",
+    "windyId": "1531834263"
+  },
+  {
+    "slug": "slupsk-stare-miasto-slupsk-wojewodztwo-pomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/slupsk-stare-miasto-slupsk-wojewodztwo-pomorskie-rzeczpospolita-polska/",
+    "lat": 54.46405,
+    "lng": 17.02872,
+    "name": "Słupsk: Stare Miasto",
+    "city": "Słupsk",
+    "windyId": "1531229611"
+  },
+  {
+    "slug": "czaszyn-north-east-pl-bieszczady",
+    "url": "https://wideokamery.pl/kamery/czaszyn-north-east-pl-bieszczady/",
+    "lat": 49.44254,
+    "lng": 22.21066,
+    "name": "Czaszyn: pl - Bieszczady",
+    "city": "Czaszyn",
+    "windyId": "1248007981"
+  },
+  {
+    "slug": "gdansk-airport",
+    "url": "https://wideokamery.pl/kamery/gdansk-airport/",
+    "lat": 54.37984,
+    "lng": 18.47056,
+    "name": "Gdańsk: Lotnisko",
+    "city": "Gdańsk",
+    "windyId": "1384053611"
+  },
+  {
+    "slug": "chorzow-east-chorzow-rynek",
+    "url": "https://wideokamery.pl/kamery/chorzow-east-chorzow-rynek/",
+    "lat": 50.29777,
+    "lng": 18.95316,
+    "name": "Chorzów: Rynek",
+    "city": "Chorzów",
+    "windyId": "1361317493"
+  },
+  {
+    "slug": "dabrowa-gornicza-zajac-south-east-dabrowa-gornicza-wojewodztwo-slaskie-rzeczpospolita-polska-pogoria-iii",
+    "url": "https://wideokamery.pl/kamery/dabrowa-gornicza-zajac-south-east-dabrowa-gornicza-wojewodztwo-slaskie-rzeczpospolita-polska-pogoria-iii/",
+    "lat": 50.34408,
+    "lng": 19.19769,
+    "name": "Dąbrowa Górnicza: Zajac: Pogoria III",
+    "city": "Dąbrowa Górnicza",
+    "windyId": "1452839593"
+  },
+  {
+    "slug": "kuznice-goryczkow",
+    "url": "https://wideokamery.pl/kamery/kuznice-goryczkow/",
+    "lat": 49.23238,
+    "lng": 19.98099,
+    "name": "Kuźnice: Goryczków",
+    "city": "Kuźnice",
+    "windyId": "1327675224"
+  },
+  {
+    "slug": "gliwice-south-aeroclub-gliwice-trynek",
+    "url": "https://wideokamery.pl/kamery/gliwice-south-aeroclub-gliwice-trynek/",
+    "lat": 50.27247,
+    "lng": 18.67229,
+    "name": "Gliwice: Aeroclub Gliwice Trynek",
+    "city": "Gliwice",
+    "windyId": "1597057717"
+  },
+  {
+    "slug": "warsaw-south-wojewodztwo-mazowieckie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/warsaw-south-wojewodztwo-mazowieckie-rzeczpospolita-polska/",
+    "lat": 52.21147,
+    "lng": 20.98071,
+    "name": "Ochota",
+    "city": "Ochota",
+    "windyId": "1568898345"
+  },
+  {
+    "slug": "przylep-aeroklub-ziemi-lubuskiej",
+    "url": "https://wideokamery.pl/kamery/przylep-aeroklub-ziemi-lubuskiej/",
+    "lat": 51.97727,
+    "lng": 15.46669,
+    "name": "Przylep: Aeroklub Ziemi Lubuskiej",
+    "city": "Przylep",
+    "windyId": "1378780626"
+  },
+  {
+    "slug": "suwalki-osiedle-ii-north-east-suwalki-airport",
+    "url": "https://wideokamery.pl/kamery/suwalki-osiedle-ii-north-east-suwalki-airport/",
+    "lat": 54.07241,
+    "lng": 22.90511,
+    "name": "Suwałki: Osiedle II: Lotnisko",
+    "city": "Suwałki",
+    "windyId": "1581464125"
+  },
+  {
+    "slug": "sucha-gora-south-hala-krupo",
+    "url": "https://wideokamery.pl/kamery/sucha-gora-south-hala-krupo/",
+    "lat": 49.62633,
+    "lng": 19.64483,
+    "name": "Sucha Góra: Hala krupo",
+    "city": "Sucha Góra",
+    "windyId": "1555784910"
+  },
+  {
+    "slug": "leba-camping-przymorze-nr48-poland",
+    "url": "https://wideokamery.pl/kamery/leba-camping-przymorze-nr48-poland/",
+    "lat": 54.76568,
+    "lng": 17.57244,
+    "name": "Łeba: Camping Przymorze Nr48 - Poland",
+    "city": "Łeba",
+    "windyId": "1281939321"
+  },
+  {
+    "slug": "piotrkow-trybunalski-aero-club-of-piotrkow-trybunalski",
+    "url": "https://wideokamery.pl/kamery/piotrkow-trybunalski-aero-club-of-piotrkow-trybunalski/",
+    "lat": 51.38279,
+    "lng": 19.68711,
+    "name": "Piotrków Trybunalski: Aero Club of Piotr...",
+    "city": "Piotrków Trybunalski",
+    "windyId": "1499890320"
+  },
+  {
+    "slug": "bydgoszcz-west-aeroklub-bydgoski",
+    "url": "https://wideokamery.pl/kamery/bydgoszcz-west-aeroklub-bydgoski/",
+    "lat": 53.10491,
+    "lng": 17.96992,
+    "name": "Bydgoszcz: Aeroklub Bydgoski",
+    "city": "Bydgoszcz",
+    "windyId": "1577877443"
+  },
+  {
+    "slug": "szczecin-wojewodztwo-zachodniopomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/szczecin-wojewodztwo-zachodniopomorskie-rzeczpospolita-polska/",
+    "lat": 53.38276,
+    "lng": 14.66027,
+    "name": "Szczecin",
+    "city": "Szczecin",
+    "windyId": "1530797835"
+  },
+  {
+    "slug": "kolobrzeg-north-latarnia-morska-kolobrzeg",
+    "url": "https://wideokamery.pl/kamery/kolobrzeg-north-latarnia-morska-kolobrzeg/",
+    "lat": 54.18555,
+    "lng": 15.55386,
+    "name": "Kołobrzeg: Latarnia Morska Kołobrzeg",
+    "city": "Kołobrzeg",
+    "windyId": "1621006434"
+  },
+  {
+    "slug": "lodz-centrum-augustow-rokicinska-wschod",
+    "url": "https://wideokamery.pl/kamery/lodz-centrum-augustow-rokicinska-wschod/",
+    "lat": 51.75583,
+    "lng": 19.56426,
+    "name": "Łódź: Centrum: Augustów - Rokicińska wsc...",
+    "city": "Łódź",
+    "windyId": "1621006214"
+  },
+  {
+    "slug": "ladek-zdroj-ladek-rynek",
+    "url": "https://wideokamery.pl/kamery/ladek-zdroj-ladek-rynek/",
+    "lat": 50.34342,
+    "lng": 16.88875,
+    "name": "Lądek-Zdrój: Ladek: Rynek",
+    "city": "Lądek-Zdrój",
+    "windyId": "1418238799"
+  },
+  {
+    "slug": "praszka-widok-na-rynek-w-praszce",
+    "url": "https://wideokamery.pl/kamery/praszka-widok-na-rynek-w-praszce/",
+    "lat": 51.05513,
+    "lng": 18.45004,
+    "name": "Praszka: Widok na rynek w Praszce",
+    "city": "Praszka",
+    "windyId": "1259053711"
+  },
+  {
+    "slug": "karwia-east-wojewodztwo-pomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/karwia-east-wojewodztwo-pomorskie-rzeczpospolita-polska/",
+    "lat": 54.83272,
+    "lng": 18.21306,
+    "name": "Karwia",
+    "city": "Karwia",
+    "windyId": "1459767411"
+  },
+  {
+    "slug": "nowy-targ-aeroklub",
+    "url": "https://wideokamery.pl/kamery/nowy-targ-aeroklub/",
+    "lat": 49.46736,
+    "lng": 20.04718,
+    "name": "Nowy Targ: Aeroklub",
+    "city": "Nowy Targ",
+    "windyId": "1383586808"
+  },
+  {
+    "slug": "strzelin-north-wojewodztwo-dolnoslaskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/strzelin-north-wojewodztwo-dolnoslaskie-rzeczpospolita-polska/",
+    "lat": 50.78071,
+    "lng": 17.07113,
+    "name": "Strzelin",
+    "city": "Strzelin",
+    "windyId": "1427985317"
+  },
+  {
+    "slug": "warsaw-north-wojewodztwo-mazowieckie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/warsaw-north-wojewodztwo-mazowieckie-rzeczpospolita-polska/",
+    "lat": 52.21137,
+    "lng": 20.97968,
+    "name": "Ochota",
+    "city": "Ochota",
+    "windyId": "1568898227"
+  },
+  {
+    "slug": "olesnica-rynek",
+    "url": "https://wideokamery.pl/kamery/olesnica-rynek/",
+    "lat": 51.2096,
+    "lng": 17.37966,
+    "name": "Oleśnica: Rynek",
+    "city": "Oleśnica",
+    "windyId": "1217105899"
+  },
+  {
+    "slug": "torun-stare-miasto-polska-torun",
+    "url": "https://wideokamery.pl/kamery/torun-stare-miasto-polska-torun/",
+    "lat": 53.01392,
+    "lng": 18.59797,
+    "name": "Toruń: Stare Miasto: Polska - Torun",
+    "city": "Toruń",
+    "windyId": "1420026193"
+  },
+  {
+    "slug": "tychy-cyganerii",
+    "url": "https://wideokamery.pl/kamery/tychy-cyganerii/",
+    "lat": 50.11938,
+    "lng": 18.98519,
+    "name": "Tychy: Cyganerii",
+    "city": "Tychy",
+    "windyId": "1417079102"
+  },
+  {
+    "slug": "radom-marszalka-jozefa-pilsudskiego-henryka-sienkiewicza",
+    "url": "https://wideokamery.pl/kamery/radom-marszalka-jozefa-pilsudskiego-henryka-sienkiewicza/",
+    "lat": 51.39847,
+    "lng": 21.15208,
+    "name": "Radom: Marszałka Józefa Piłsudskiego - H...",
+    "city": "Radom",
+    "windyId": "1494745677"
+  },
+  {
+    "slug": "szklarska-poreba-szklarska-poreba-gorna",
+    "url": "https://wideokamery.pl/kamery/szklarska-poreba-szklarska-poreba-gorna/",
+    "lat": 50.81748,
+    "lng": 15.4321,
+    "name": "Szklarska Poręba: Gorna",
+    "city": "Szklarska Poręba",
+    "windyId": "1609935643"
+  },
+  {
+    "slug": "muczne-south-the-roman-catholic-church-in-mucznym-bukowe-berdo",
+    "url": "https://wideokamery.pl/kamery/muczne-south-the-roman-catholic-church-in-mucznym-bukowe-berdo/",
+    "lat": 49.1309,
+    "lng": 22.74646,
+    "name": "Muczne: The Roman Catholic Church in Muc...",
+    "city": "Muczne",
+    "windyId": "1553082767"
+  },
+  {
+    "slug": "tenczyn-north-glisne-szczebel-lubogoszcz",
+    "url": "https://wideokamery.pl/kamery/tenczyn-north-glisne-szczebel-lubogoszcz/",
+    "lat": 49.65285,
+    "lng": 19.99306,
+    "name": "Tenczyn: Glisne - Szczebel - Lubogoszcz",
+    "city": "Tenczyn",
+    "windyId": "1482932825"
+  },
+  {
+    "slug": "siewierz-rynek",
+    "url": "https://wideokamery.pl/kamery/siewierz-rynek/",
+    "lat": 50.46907,
+    "lng": 19.23565,
+    "name": "Siewierz: Rynek",
+    "city": "Siewierz",
+    "windyId": "1306880639"
+  },
+  {
+    "slug": "nowy-sacz",
+    "url": "https://wideokamery.pl/kamery/nowy-sacz/",
+    "lat": 49.62177,
+    "lng": 20.69705,
+    "name": "Nowy Sącz",
+    "city": "Nowy Sącz",
+    "windyId": "1523302757"
+  },
+  {
+    "slug": "slupsk-stare-miasto-town-hall",
+    "url": "https://wideokamery.pl/kamery/slupsk-stare-miasto-town-hall/",
+    "lat": 54.46405,
+    "lng": 17.02872,
+    "name": "Słupsk: Stare Miasto: Town Hall",
+    "city": "Słupsk",
+    "windyId": "1383669009"
+  },
+  {
+    "slug": "warsaw-south-east-mazovia-poland",
+    "url": "https://wideokamery.pl/kamery/warsaw-south-east-mazovia-poland/",
+    "lat": 52.27357,
+    "lng": 20.91448,
+    "name": "Bemowo: Mazovia",
+    "city": "Bemowo",
+    "windyId": "1497978105"
+  },
+  {
+    "slug": "zagorz-kompleks-skoczni-narciarskich-zakucie-w-zagorzu-k40-k20-k10",
+    "url": "https://wideokamery.pl/kamery/zagorz-kompleks-skoczni-narciarskich-zakucie-w-zagorzu-k40-k20-k10/",
+    "lat": 49.50922,
+    "lng": 22.25371,
+    "name": "Zagórz: Kompleks skoczni narciarskich \"Z...",
+    "city": "Zagórz",
+    "windyId": "1248008426"
+  },
+  {
+    "slug": "bryzgiel-wigry-lake",
+    "url": "https://wideokamery.pl/kamery/bryzgiel-wigry-lake/",
+    "lat": 53.99994,
+    "lng": 23.06485,
+    "name": "Bryzgiel: Wigry Lake",
+    "city": "Bryzgiel",
+    "windyId": "1560028503"
+  },
+  {
+    "slug": "leba-leba-wojewodztwo-pomorskie-rzeczpospolita-polska-beach",
+    "url": "https://wideokamery.pl/kamery/leba-leba-wojewodztwo-pomorskie-rzeczpospolita-polska-beach/",
+    "lat": 54.765,
+    "lng": 17.52845,
+    "name": "Łeba: Plaża",
+    "city": "Łeba",
+    "windyId": "1531994185"
+  },
+  {
+    "slug": "radawiec-duzy-aeroklub-lubelski",
+    "url": "https://wideokamery.pl/kamery/radawiec-duzy-aeroklub-lubelski/",
+    "lat": 51.21785,
+    "lng": 22.39614,
+    "name": "Radawiec Duzy: Aeroklub Lubelski",
+    "city": "Radawiec Duzy",
+    "windyId": "1559421573"
+  },
+  {
+    "slug": "stalowa-wola-kosciol-pw-matki-bozej-krolowej-polski",
+    "url": "https://wideokamery.pl/kamery/stalowa-wola-kosciol-pw-matki-bozej-krolowej-polski/",
+    "lat": 50.56808,
+    "lng": 22.06508,
+    "name": "Stalowa Wola: Kościół p.w. Matki Bożej K...",
+    "city": "Stalowa Wola",
+    "windyId": "1264853756"
+  },
+  {
+    "slug": "jastarnia-wojewodztwo-pomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/jastarnia-wojewodztwo-pomorskie-rzeczpospolita-polska/",
+    "lat": 54.69445,
+    "lng": 18.68052,
+    "name": "Jastarnia",
+    "city": "Jastarnia",
+    "windyId": "1531994309"
+  },
+  {
+    "slug": "rudniki-south-west-aeroklub-czestochowski",
+    "url": "https://wideokamery.pl/kamery/rudniki-south-west-aeroklub-czestochowski/",
+    "lat": 50.88946,
+    "lng": 19.20391,
+    "name": "Rudniki: Aeroklub Częstochowski",
+    "city": "Rudniki",
+    "windyId": "1453452160"
+  },
+  {
+    "slug": "kroscienko-nad-dunajcem-rynek",
+    "url": "https://wideokamery.pl/kamery/kroscienko-nad-dunajcem-rynek/",
+    "lat": 49.44037,
+    "lng": 20.42843,
+    "name": "Krościenko nad Dunajcem: Rynek",
+    "city": "Krościenko nad Dunajcem",
+    "windyId": "1512598264"
+  },
+  {
+    "slug": "lukow-lukow-lubelskie-rzeczpospolita-polska-ulica-przemyslowa",
+    "url": "https://wideokamery.pl/kamery/lukow-lukow-lubelskie-rzeczpospolita-polska-ulica-przemyslowa/",
+    "lat": 51.93652,
+    "lng": 22.38772,
+    "name": "Łuków: Lubelskie: Ulica Przemysłowa",
+    "city": "Łuków",
+    "windyId": "1558787882"
+  },
+  {
+    "slug": "borsk-north-east-largo-osrodek-wypoczynkowy",
+    "url": "https://wideokamery.pl/kamery/borsk-north-east-largo-osrodek-wypoczynkowy/",
+    "lat": 53.95607,
+    "lng": 17.90869,
+    "name": "Borsk: Largo. Ośrodek wypoczynkowy",
+    "city": "Borsk",
+    "windyId": "1464862173"
+  },
+  {
+    "slug": "warsaw-west-ochota",
+    "url": "https://wideokamery.pl/kamery/warsaw-west-ochota/",
+    "lat": 52.21122,
+    "lng": 20.98088,
+    "name": "Warszawa: Ochota",
+    "city": "Warszawa",
+    "windyId": "1568898395"
+  },
+  {
+    "slug": "skopanie-osiedle",
+    "url": "https://wideokamery.pl/kamery/skopanie-osiedle/",
+    "lat": 50.47698,
+    "lng": 21.55408,
+    "name": "Skopanie: osiedle",
+    "city": "Skopanie",
+    "windyId": "1241688281"
+  },
+  {
+    "slug": "zakopane-south-east-schronisko-murowaniec-zadni-granat-zolta-turnia",
+    "url": "https://wideokamery.pl/kamery/zakopane-south-east-schronisko-murowaniec-zadni-granat-zolta-turnia/",
+    "lat": 49.24422,
+    "lng": 20.00571,
+    "name": "Zakopane: Schronisko Murowaniec - Zadni ...",
+    "city": "Zakopane",
+    "windyId": "1661027632"
+  },
+  {
+    "slug": "ustka-wojewodztwo-pomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/ustka-wojewodztwo-pomorskie-rzeczpospolita-polska/",
+    "lat": 54.58762,
+    "lng": 16.86475,
+    "name": "Ustka",
+    "city": "Ustka",
+    "windyId": "1531050274"
+  },
+  {
+    "slug": "wolanow-private-wettercam-neugersdorf",
+    "url": "https://wideokamery.pl/kamery/wolanow-private-wettercam-neugersdorf/",
+    "lat": 50.97764,
+    "lng": 14.59981,
+    "name": "Wolanów: Private Wettercam Neugersdorf",
+    "city": "Wolanów",
+    "windyId": "1392711606"
+  },
+  {
+    "slug": "krakow-stare-miasto-rynek-glowny-1",
+    "url": "https://wideokamery.pl/kamery/krakow-stare-miasto-rynek-glowny-1/",
+    "lat": 50.06154,
+    "lng": 19.93651,
+    "name": "Kraków: Stare Miasto: Rynek Główny 1",
+    "city": "Kraków",
+    "windyId": "1639755102"
+  },
+  {
+    "slug": "szczytno-plac-juranda",
+    "url": "https://wideokamery.pl/kamery/szczytno-plac-juranda/",
+    "lat": 53.56259,
+    "lng": 20.98747,
+    "name": "Szczytno: Plac Juranda",
+    "city": "Szczytno",
+    "windyId": "1533750047"
+  },
+  {
+    "slug": "jaworzno-rynek",
+    "url": "https://wideokamery.pl/kamery/jaworzno-rynek/",
+    "lat": 50.20528,
+    "lng": 19.27498,
+    "name": "Jaworzno: Rynek",
+    "city": "Jaworzno",
+    "windyId": "1505020101"
+  },
+  {
+    "slug": "kwidzyn-pomerania-poland",
+    "url": "https://wideokamery.pl/kamery/kwidzyn-pomerania-poland/",
+    "lat": 53.72495,
+    "lng": 18.93114,
+    "name": "Kwidzyn",
+    "city": "Kwidzyn",
+    "windyId": "1571645495"
+  },
+  {
+    "slug": "miedwiezyki-family-windsurfing",
+    "url": "https://wideokamery.pl/kamery/miedwiezyki-family-windsurfing/",
+    "lat": 53.35343,
+    "lng": 14.91902,
+    "name": "Miedwiezyki: Family Windsurfing",
+    "city": "Miedwiezyki",
+    "windyId": "1460879812"
+  },
+  {
+    "slug": "jelenia-gora-cieplice-plac-piastowski",
+    "url": "https://wideokamery.pl/kamery/jelenia-gora-cieplice-plac-piastowski/",
+    "lat": 50.86516,
+    "lng": 15.68332,
+    "name": "Jelenia Góra: Cieplice - Plac Piastowski",
+    "city": "Jelenia Góra",
+    "windyId": "1513030268"
+  },
+  {
+    "slug": "wisla-rynek-miasta",
+    "url": "https://wideokamery.pl/kamery/wisla-rynek-miasta/",
+    "lat": 49.65485,
+    "lng": 18.85912,
+    "name": "Wisła: Rynek miasta",
+    "city": "Wisła",
+    "windyId": "1457347572"
+  },
+  {
+    "slug": "warsaw-east-wojewodztwo-mazowieckie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/warsaw-east-wojewodztwo-mazowieckie-rzeczpospolita-polska/",
+    "lat": 52.21168,
+    "lng": 20.98054,
+    "name": "Ochota",
+    "city": "Ochota",
+    "windyId": "1568898295"
+  },
+  {
+    "slug": "leszno-west",
+    "url": "https://wideokamery.pl/kamery/leszno-west/",
+    "lat": 51.83224,
+    "lng": 16.533,
+    "name": "Leszno",
+    "city": "Leszno",
+    "windyId": "1584967649"
+  },
+  {
+    "slug": "michalkow-east-michalkow",
+    "url": "https://wideokamery.pl/kamery/michalkow-east-michalkow/",
+    "lat": 51.699,
+    "lng": 17.8521,
+    "name": "Michalkow",
+    "city": "Michalkow",
+    "windyId": "1507472161"
+  },
+  {
+    "slug": "swidnik-swidnik-lubelskie-rzeczpospolita-polska-plac-konstytucji-3-maja",
+    "url": "https://wideokamery.pl/kamery/swidnik-swidnik-lubelskie-rzeczpospolita-polska-plac-konstytucji-3-maja/",
+    "lat": 51.21898,
+    "lng": 22.69621,
+    "name": "Świdnik: Lubelskie: Plac Konstytucji 3 M...",
+    "city": "Świdnik",
+    "windyId": "1553592895"
+  },
+  {
+    "slug": "lutowiska",
+    "url": "https://wideokamery.pl/kamery/lutowiska/",
+    "lat": 49.26352,
+    "lng": 22.68335,
+    "name": "Lutowiska",
+    "city": "Lutowiska",
+    "windyId": "1579698303"
+  },
+  {
+    "slug": "gdansk",
+    "url": "https://wideokamery.pl/kamery/gdansk/",
+    "lat": 54.349,
+    "lng": 18.65172,
+    "name": "Gdańsk",
+    "city": "Gdańsk",
+    "windyId": "1793891258"
+  },
+  {
+    "slug": "plock-marina",
+    "url": "https://wideokamery.pl/kamery/plock-marina/",
+    "lat": 52.5417,
+    "lng": 19.68484,
+    "name": "Płock: Marina",
+    "city": "Płock",
+    "windyId": "1498360260"
+  },
+  {
+    "slug": "szewce-north",
+    "url": "https://wideokamery.pl/kamery/szewce-north/",
+    "lat": 51.20369,
+    "lng": 16.99457,
+    "name": "Szewce",
+    "city": "Szewce",
+    "windyId": "1594381714"
+  },
+  {
+    "slug": "chrcynno-airport-nasielsk",
+    "url": "https://wideokamery.pl/kamery/chrcynno-airport-nasielsk/",
+    "lat": 52.57465,
+    "lng": 20.86095,
+    "name": "Chrcynno: Airport, Nasielsk",
+    "city": "Chrcynno",
+    "windyId": "1498133460"
+  },
+  {
+    "slug": "jozefow-freedom-square-dabrowa-gornicza",
+    "url": "https://wideokamery.pl/kamery/jozefow-freedom-square-dabrowa-gornicza/",
+    "lat": 50.32512,
+    "lng": 19.18823,
+    "name": "Józefów: Freedom Square, Dabrowa Gornicz...",
+    "city": "Józefów",
+    "windyId": "1497543060"
+  },
+  {
+    "slug": "terespol-west-pto-varshavskiy-most-brest",
+    "url": "https://wideokamery.pl/kamery/terespol-west-pto-varshavskiy-most-brest/",
+    "lat": 52.07265,
+    "lng": 23.65491,
+    "name": "Terespol: Pto Varshavskiy Most - Brest",
+    "city": "Terespol",
+    "windyId": "1662035053"
+  },
+  {
+    "slug": "pila",
+    "url": "https://wideokamery.pl/kamery/pila/",
+    "lat": 53.1501,
+    "lng": 16.73941,
+    "name": "Piła",
+    "city": "Piła",
+    "windyId": "1619931210"
+  },
+  {
+    "slug": "karpacz-karpatka-i-and-ii-karpacz-karczma-karpatka-bar-karpacz-krzyzna-gora-sokolik",
+    "url": "https://wideokamery.pl/kamery/karpacz-karpatka-i-and-ii-karpacz-karczma-karpatka-bar-karpacz-krzyzna-gora-sokolik/",
+    "lat": 50.78175,
+    "lng": 15.74995,
+    "name": "Karpacz: Karpatka I & II Karpacz - Karcz...",
+    "city": "Karpacz",
+    "windyId": "1793882201"
+  },
+  {
+    "slug": "koszalin-morska",
+    "url": "https://wideokamery.pl/kamery/koszalin-morska/",
+    "lat": 54.19495,
+    "lng": 16.16883,
+    "name": "Koszalin: Morska",
+    "city": "Koszalin",
+    "windyId": "1624215709"
+  },
+  {
+    "slug": "wetlina-polonina-wetlinska",
+    "url": "https://wideokamery.pl/kamery/wetlina-polonina-wetlinska/",
+    "lat": 49.15807,
+    "lng": 22.55139,
+    "name": "Wetlina: Połonina Wetlińska",
+    "city": "Wetlina",
+    "windyId": "1700915636"
+  },
+  {
+    "slug": "miedzyzdroje-wojewodztwo-zachodniopomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/miedzyzdroje-wojewodztwo-zachodniopomorskie-rzeczpospolita-polska/",
+    "lat": 53.92921,
+    "lng": 14.45097,
+    "name": "Międzyzdroje",
+    "city": "Międzyzdroje",
+    "windyId": "1530797917"
+  },
+  {
+    "slug": "iwonicz-zdroj-iwonicz-zdroj",
+    "url": "https://wideokamery.pl/kamery/iwonicz-zdroj-iwonicz-zdroj/",
+    "lat": 49.56275,
+    "lng": 21.79035,
+    "name": "Iwonicz-Zdrój: Iwonicz zdrój",
+    "city": "Iwonicz-Zdrój",
+    "windyId": "1264852708"
+  },
+  {
+    "slug": "kolbuszowa-rynek",
+    "url": "https://wideokamery.pl/kamery/kolbuszowa-rynek/",
+    "lat": 50.2441,
+    "lng": 21.7761,
+    "name": "Kolbuszowa: Rynek",
+    "city": "Kolbuszowa",
+    "windyId": "1381579971"
+  },
+  {
+    "slug": "brwinow-wojewodztwo-mazowieckie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/brwinow-wojewodztwo-mazowieckie-rzeczpospolita-polska/",
+    "lat": 52.15371,
+    "lng": 20.70393,
+    "name": "Brwinów",
+    "city": "Brwinów",
+    "windyId": "1531048945"
+  },
+  {
+    "slug": "barlinek",
+    "url": "https://wideokamery.pl/kamery/barlinek/",
+    "lat": 52.99091,
+    "lng": 15.21823,
+    "name": "Barlinek",
+    "city": "Barlinek",
+    "windyId": "1612427368"
+  },
+  {
+    "slug": "handzlowka-ski-lift-stas",
+    "url": "https://wideokamery.pl/kamery/handzlowka-ski-lift-stas/",
+    "lat": 49.99328,
+    "lng": 22.2226,
+    "name": "Handzlówka: Ski lift STAŚ",
+    "city": "Handzlówka",
+    "windyId": "1360164551"
+  },
+  {
+    "slug": "walbrzych-wojewodztwo-dolnoslaskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/walbrzych-wojewodztwo-dolnoslaskie-rzeczpospolita-polska/",
+    "lat": 50.76505,
+    "lng": 16.28044,
+    "name": "Wałbrzych",
+    "city": "Wałbrzych",
+    "windyId": "1531226408"
+  },
+  {
+    "slug": "cieszyn-rynek",
+    "url": "https://wideokamery.pl/kamery/cieszyn-rynek/",
+    "lat": 49.74927,
+    "lng": 18.63354,
+    "name": "Cieszyn: Rynek",
+    "city": "Cieszyn",
+    "windyId": "1291220301"
+  },
+  {
+    "slug": "zlatna-north-west-romanka",
+    "url": "https://wideokamery.pl/kamery/zlatna-north-west-romanka/",
+    "lat": 49.53626,
+    "lng": 19.23421,
+    "name": "Zlatna: Romanka",
+    "city": "Zlatna",
+    "windyId": "1575144907"
+  },
+  {
+    "slug": "grodek-nad-dunajcem",
+    "url": "https://wideokamery.pl/kamery/grodek-nad-dunajcem/",
+    "lat": 49.75096,
+    "lng": 20.73402,
+    "name": "Gródek nad Dunajcem",
+    "city": "Gródek nad Dunajcem",
+    "windyId": "1592748169"
+  },
+  {
+    "slug": "sztynort-south-port-sztynort",
+    "url": "https://wideokamery.pl/kamery/sztynort-south-port-sztynort/",
+    "lat": 54.13244,
+    "lng": 21.68244,
+    "name": "Sztynort: Port Sztynort",
+    "city": "Sztynort",
+    "windyId": "1561543952"
+  },
+  {
+    "slug": "wladyslawowo-szotland-wladyslawowo-wojewodztwo-pomorskie-rzeczpospolita-polska-beach",
+    "url": "https://wideokamery.pl/kamery/wladyslawowo-szotland-wladyslawowo-wojewodztwo-pomorskie-rzeczpospolita-polska-beach/",
+    "lat": 54.79086,
+    "lng": 18.4009,
+    "name": "Władysławowo: Szotland: Plaża",
+    "city": "Władysławowo",
+    "windyId": "1532287254"
+  },
+  {
+    "slug": "torun-stare-miasto-torun",
+    "url": "https://wideokamery.pl/kamery/torun-stare-miasto-torun/",
+    "lat": 53.01229,
+    "lng": 18.59831,
+    "name": "Toruń: Stare Miasto",
+    "city": "Toruń",
+    "windyId": "1420026352"
+  },
+  {
+    "slug": "suche-south-zakopane-tatra-national-park-tatra-mountains",
+    "url": "https://wideokamery.pl/kamery/suche-south-zakopane-tatra-national-park-tatra-mountains/",
+    "lat": 49.3244,
+    "lng": 19.97151,
+    "name": "Suche: Zakopane - Tatra National Park - ...",
+    "city": "Suche",
+    "windyId": "1528442644"
+  },
+  {
+    "slug": "cisna",
+    "url": "https://wideokamery.pl/kamery/cisna/",
+    "lat": 49.21318,
+    "lng": 22.32833,
+    "name": "Cisna",
+    "city": "Cisna",
+    "windyId": "1638701958"
+  },
+  {
+    "slug": "krakow-kapelanka",
+    "url": "https://wideokamery.pl/kamery/krakow-kapelanka/",
+    "lat": 50.04452,
+    "lng": 19.92267,
+    "name": "Kraków: Kapelanka",
+    "city": "Kraków",
+    "windyId": "1639150218"
+  },
+  {
+    "slug": "czerwonka",
+    "url": "https://wideokamery.pl/kamery/czerwonka/",
+    "lat": 54.20842,
+    "lng": 22.97049,
+    "name": "Czerwonka",
+    "city": "Czerwonka",
+    "windyId": "1610633054"
+  },
+  {
+    "slug": "kolobrzeg-luboszyce-plaza-sulkowskiego",
+    "url": "https://wideokamery.pl/kamery/kolobrzeg-luboszyce-plaza-sulkowskiego/",
+    "lat": 54.1896,
+    "lng": 15.60338,
+    "name": "Kołobrzeg: Luboszyce: Plaża - Sułkowskie...",
+    "city": "Kołobrzeg",
+    "windyId": "1621006433"
+  },
+  {
+    "slug": "szewce-north-east",
+    "url": "https://wideokamery.pl/kamery/szewce-north-east/",
+    "lat": 51.20371,
+    "lng": 16.9946,
+    "name": "Szewce",
+    "city": "Szewce",
+    "windyId": "1594381799"
+  },
+  {
+    "slug": "handzlowka",
+    "url": "https://wideokamery.pl/kamery/handzlowka/",
+    "lat": 49.99637,
+    "lng": 22.21642,
+    "name": "Handzlówka",
+    "city": "Handzlówka",
+    "windyId": "1360164438"
+  },
+  {
+    "slug": "miedzybrodzie-bialskie-east-jezioro-miedzybrodzkie-na-zywo",
+    "url": "https://wideokamery.pl/kamery/miedzybrodzie-bialskie-east-jezioro-miedzybrodzkie-na-zywo/",
+    "lat": 49.77751,
+    "lng": 19.21312,
+    "name": "Międzybrodzie Bialskie: Jezioro Międzybr...",
+    "city": "Międzybrodzie Bialskie",
+    "windyId": "1793886295"
+  },
+  {
+    "slug": "chrzanow-ski-slope-view-lubusz-province",
+    "url": "https://wideokamery.pl/kamery/chrzanow-ski-slope-view-lubusz-province/",
+    "lat": 50.77164,
+    "lng": 22.60231,
+    "name": "Chrzanów: Ski slope view - Lubusz Provin...",
+    "city": "Chrzanów",
+    "windyId": "1497496260"
+  },
+  {
+    "slug": "wodzislaw-slaski-stary-wodzislaw-south-east-rynek-wodzislaw",
+    "url": "https://wideokamery.pl/kamery/wodzislaw-slaski-stary-wodzislaw-south-east-rynek-wodzislaw/",
+    "lat": 50.00255,
+    "lng": 18.46313,
+    "name": "Wodzisław Śląski: Stary Wodzislaw: RYNEK...",
+    "city": "Wodzisław Śląski",
+    "windyId": "1251388384"
+  },
+  {
+    "slug": "strzelce-opolskie-north-west-marka-prawego-na-zywo",
+    "url": "https://wideokamery.pl/kamery/strzelce-opolskie-north-west-marka-prawego-na-zywo/",
+    "lat": 50.51067,
+    "lng": 18.30547,
+    "name": "Strzelce Opolskie: Marka Prawego",
+    "city": "Strzelce Opolskie",
+    "windyId": "1793886292"
+  },
+  {
+    "slug": "nowy-staw-wojewodztwo-pomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/nowy-staw-wojewodztwo-pomorskie-rzeczpospolita-polska/",
+    "lat": 54.13609,
+    "lng": 19.00909,
+    "name": "Nowy Staw",
+    "city": "Nowy Staw",
+    "windyId": "1523300946"
+  },
+  {
+    "slug": "karpacz-swiatynia-wang-2",
+    "url": "https://wideokamery.pl/kamery/karpacz-swiatynia-wang-2/",
+    "lat": 50.77735,
+    "lng": 15.7246,
+    "name": "Karpacz: Świątynia Wang 2",
+    "city": "Karpacz",
+    "windyId": "1310558313"
+  },
+  {
+    "slug": "szewce",
+    "url": "https://wideokamery.pl/kamery/szewce/",
+    "lat": 51.2033,
+    "lng": 16.99353,
+    "name": "Szewce",
+    "city": "Szewce",
+    "windyId": "1655713353"
+  },
+  {
+    "slug": "handzlowka-stas",
+    "url": "https://wideokamery.pl/kamery/handzlowka-stas/",
+    "lat": 49.99527,
+    "lng": 22.22311,
+    "name": "Handzlówka: Staś",
+    "city": "Handzlówka",
+    "windyId": "1360164381"
+  },
+  {
+    "slug": "myslowice-centrum-rynek",
+    "url": "https://wideokamery.pl/kamery/myslowice-centrum-rynek/",
+    "lat": 50.24458,
+    "lng": 19.13856,
+    "name": "Mysłowice: Centrum: Rynek",
+    "city": "Mysłowice",
+    "windyId": "1621006406"
+  },
+  {
+    "slug": "bedzin-srodmiescie",
+    "url": "https://wideokamery.pl/kamery/bedzin-srodmiescie/",
+    "lat": 50.35232,
+    "lng": 19.07523,
+    "name": "Będzin: Srodmiescie",
+    "city": "Będzin",
+    "windyId": "1622023220"
+  },
+  {
+    "slug": "lublin-north-poland",
+    "url": "https://wideokamery.pl/kamery/lublin-north-poland/",
+    "lat": 51.24738,
+    "lng": 22.56596,
+    "name": "Lublin",
+    "city": "Lublin",
+    "windyId": "1508939023"
+  },
+  {
+    "slug": "malbork-wojewodztwo-pomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/malbork-wojewodztwo-pomorskie-rzeczpospolita-polska/",
+    "lat": 54.03591,
+    "lng": 19.0266,
+    "name": "Malbork",
+    "city": "Malbork",
+    "windyId": "1523300864"
+  },
+  {
+    "slug": "gorlice",
+    "url": "https://wideokamery.pl/kamery/gorlice/",
+    "lat": 49.65829,
+    "lng": 21.15938,
+    "name": "Gorlice",
+    "city": "Gorlice",
+    "windyId": "1639143740"
+  },
+  {
+    "slug": "jelenia-gora-south-west",
+    "url": "https://wideokamery.pl/kamery/jelenia-gora-south-west/",
+    "lat": 50.90435,
+    "lng": 15.74665,
+    "name": "Jelenia Góra",
+    "city": "Jelenia Góra",
+    "windyId": "1579073825"
+  },
+  {
+    "slug": "brzeg-north-wojewodztwo-opolskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/brzeg-north-wojewodztwo-opolskie-rzeczpospolita-polska/",
+    "lat": 50.85976,
+    "lng": 17.47045,
+    "name": "Brzeg",
+    "city": "Brzeg",
+    "windyId": "1480926441"
+  },
+  {
+    "slug": "krakow-south-east-wawel-royal-castle",
+    "url": "https://wideokamery.pl/kamery/krakow-south-east-wawel-royal-castle/",
+    "lat": 50.05603,
+    "lng": 19.9283,
+    "name": "Kraków: Wawel Royal Castle",
+    "city": "Kraków",
+    "windyId": "1793892502"
+  },
+  {
+    "slug": "puck-wojewodztwo-pomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/puck-wojewodztwo-pomorskie-rzeczpospolita-polska/",
+    "lat": 54.7179,
+    "lng": 18.40841,
+    "name": "Puck",
+    "city": "Puck",
+    "windyId": "1564313358"
+  },
+  {
+    "slug": "drawsko-pomorskie",
+    "url": "https://wideokamery.pl/kamery/drawsko-pomorskie/",
+    "lat": 53.53139,
+    "lng": 15.81278,
+    "name": "Drawsko Pomorskie",
+    "city": "Drawsko Pomorskie",
+    "windyId": "1761568847"
+  },
+  {
+    "slug": "lososina-dolna",
+    "url": "https://wideokamery.pl/kamery/lososina-dolna/",
+    "lat": 49.74933,
+    "lng": 20.6307,
+    "name": "Łososina Dolna",
+    "city": "Łososina Dolna",
+    "windyId": "1590315132"
+  },
+  {
+    "slug": "strzyzow-west-wojewodztwo-podkarpackie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/strzyzow-west-wojewodztwo-podkarpackie-rzeczpospolita-polska/",
+    "lat": 49.87179,
+    "lng": 21.80743,
+    "name": "Strzyżów",
+    "city": "Strzyżów",
+    "windyId": "1564385581"
+  },
+  {
+    "slug": "suchoraba-north-east-suchora-lesser-poland-voivodeship-poland",
+    "url": "https://wideokamery.pl/kamery/suchoraba-north-east-suchora-lesser-poland-voivodeship-poland/",
+    "lat": 49.56963,
+    "lng": 20.06723,
+    "name": "Suchoraba",
+    "city": "Suchoraba",
+    "windyId": "1489093468"
+  },
+  {
+    "slug": "krapkowice-rynek",
+    "url": "https://wideokamery.pl/kamery/krapkowice-rynek/",
+    "lat": 50.47487,
+    "lng": 17.9668,
+    "name": "Krapkowice: Rynek",
+    "city": "Krapkowice",
+    "windyId": "1447777225"
+  },
+  {
+    "slug": "lublin-lithuanian-square",
+    "url": "https://wideokamery.pl/kamery/lublin-lithuanian-square/",
+    "lat": 51.24826,
+    "lng": 22.55984,
+    "name": "Lublin: Lithuanian Square",
+    "city": "Lublin",
+    "windyId": "1514121085"
+  },
+  {
+    "slug": "ropczyce-planty",
+    "url": "https://wideokamery.pl/kamery/ropczyce-planty/",
+    "lat": 50.05236,
+    "lng": 21.61139,
+    "name": "Ropczyce: Planty",
+    "city": "Ropczyce",
+    "windyId": "1282505374"
+  },
+  {
+    "slug": "myslowice-centrum-katowicka-krakowska",
+    "url": "https://wideokamery.pl/kamery/myslowice-centrum-katowicka-krakowska/",
+    "lat": 50.24153,
+    "lng": 19.13699,
+    "name": "Mysłowice: Centrum: Katowicka - Krakowsk...",
+    "city": "Mysłowice",
+    "windyId": "1621006401"
+  },
+  {
+    "slug": "dabrowa-tarnowska-podkosciele-south-hotel-cristal-park-dabrowa-tarnowska",
+    "url": "https://wideokamery.pl/kamery/dabrowa-tarnowska-podkosciele-south-hotel-cristal-park-dabrowa-tarnowska/",
+    "lat": 50.17131,
+    "lng": 20.98274,
+    "name": "Dąbrowa Tarnowska: Podkosciele: Hotel Cr...",
+    "city": "Dąbrowa Tarnowska",
+    "windyId": "1620537214"
+  },
+  {
+    "slug": "ustrzyki-gorne-south",
+    "url": "https://wideokamery.pl/kamery/ustrzyki-gorne-south/",
+    "lat": 49.10206,
+    "lng": 22.65546,
+    "name": "Ustrzyki Gorne",
+    "city": "Ustrzyki Gorne",
+    "windyId": "1642679298"
+  },
+  {
+    "slug": "imielin-east-zbiornik-dzieckowice-wojewodztwo-slaskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/imielin-east-zbiornik-dzieckowice-wojewodztwo-slaskie-rzeczpospolita-polska/",
+    "lat": 50.11374,
+    "lng": 19.22161,
+    "name": "Imielin: Zbiornik Dziećkowice",
+    "city": "Imielin",
+    "windyId": "1552136839"
+  },
+  {
+    "slug": "chrcynno-south-east-chreynno-wojewodztwo-mazowieckie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/chrcynno-south-east-chreynno-wojewodztwo-mazowieckie-rzeczpospolita-polska/",
+    "lat": 52.57334,
+    "lng": 20.86614,
+    "name": "Chrcynno: Chreynno",
+    "city": "Chrcynno",
+    "windyId": "1427386835"
+  },
+  {
+    "slug": "swinoujscie-srodmiescie",
+    "url": "https://wideokamery.pl/kamery/swinoujscie-srodmiescie/",
+    "lat": 53.91981,
+    "lng": 14.28625,
+    "name": "Świnoujście: Srodmiescie",
+    "city": "Świnoujście",
+    "windyId": "1625077307"
+  },
+  {
+    "slug": "wisniowa-osp",
+    "url": "https://wideokamery.pl/kamery/wisniowa-osp/",
+    "lat": 49.78719,
+    "lng": 20.11717,
+    "name": "Wiśniowa: Osp",
+    "city": "Wiśniowa",
+    "windyId": "1640019305"
+  },
+  {
+    "slug": "lezany-south-lezany-droga-nr-9",
+    "url": "https://wideokamery.pl/kamery/lezany-south-lezany-droga-nr-9/",
+    "lat": 49.64774,
+    "lng": 21.81224,
+    "name": "Lezany: droga nr 9",
+    "city": "Lezany",
+    "windyId": "1376556976"
+  },
+  {
+    "slug": "krakow-debniki-zachod-rondo-grunwaldzkie",
+    "url": "https://wideokamery.pl/kamery/krakow-debniki-zachod-rondo-grunwaldzkie/",
+    "lat": 50.0487,
+    "lng": 19.93026,
+    "name": "Kraków: Debniki Zachod: Rondo Grunwaldzk...",
+    "city": "Kraków",
+    "windyId": "1621006431"
+  },
+  {
+    "slug": "elblag-woj-warminsko-mazurskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/elblag-woj-warminsko-mazurskie-rzeczpospolita-polska/",
+    "lat": 54.1522,
+    "lng": 19.40884,
+    "name": "Elbląg: woj. warmińsko-mazurskie",
+    "city": "Elbląg",
+    "windyId": "1531055937"
+  },
+  {
+    "slug": "zgierz-osiedle-650-staffa-droga-s14",
+    "url": "https://wideokamery.pl/kamery/zgierz-osiedle-650-staffa-droga-s14/",
+    "lat": 51.85855,
+    "lng": 19.38348,
+    "name": "Zgierz: Osiedle 650 - Staffa - Droga S14",
+    "city": "Zgierz",
+    "windyId": "1621006336"
+  },
+  {
+    "slug": "zascianki-north",
+    "url": "https://wideokamery.pl/kamery/zascianki-north/",
+    "lat": 53.12122,
+    "lng": 23.23557,
+    "name": "Zascianki",
+    "city": "Zascianki",
+    "windyId": "1706260560"
+  },
+  {
+    "slug": "wrzesnia-wojewodztwo-wielkopolskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/wrzesnia-wojewodztwo-wielkopolskie-rzeczpospolita-polska/",
+    "lat": 52.32512,
+    "lng": 17.56519,
+    "name": "Września",
+    "city": "Września",
+    "windyId": "1523288499"
+  },
+  {
+    "slug": "witow-east-kominiarski-wierch-chocholowska-valley",
+    "url": "https://wideokamery.pl/kamery/witow-east-kominiarski-wierch-chocholowska-valley/",
+    "lat": 49.23644,
+    "lng": 19.78802,
+    "name": "Witów: Kominiarski Wierch - Chochołowska...",
+    "city": "Witów",
+    "windyId": "1661027969"
+  },
+  {
+    "slug": "wodzislaw-slaski-ksplkwilhelma-kubsza",
+    "url": "https://wideokamery.pl/kamery/wodzislaw-slaski-ksplkwilhelma-kubsza/",
+    "lat": 50.00229,
+    "lng": 18.46433,
+    "name": "Wodzisław Śląski: Ks.Płk.Wilhelma Kubsza",
+    "city": "Wodzisław Śląski",
+    "windyId": "1605267667"
+  },
+  {
+    "slug": "wladyslawowo-east",
+    "url": "https://wideokamery.pl/kamery/wladyslawowo-east/",
+    "lat": 54.7974,
+    "lng": 18.41467,
+    "name": "Władysławowo",
+    "city": "Władysławowo",
+    "windyId": "1647378046"
+  },
+  {
+    "slug": "nowa-deba-wojewodztwo-podkarpackie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/nowa-deba-wojewodztwo-podkarpackie-rzeczpospolita-polska/",
+    "lat": 50.42974,
+    "lng": 21.75078,
+    "name": "Nowa Dęba",
+    "city": "Nowa Dęba",
+    "windyId": "1531249745"
+  },
+  {
+    "slug": "szprotawa-ratusz-w-szprotawie",
+    "url": "https://wideokamery.pl/kamery/szprotawa-ratusz-w-szprotawie/",
+    "lat": 51.56338,
+    "lng": 15.5345,
+    "name": "Szprotawa: Ratusz w Szprotawie",
+    "city": "Szprotawa",
+    "windyId": "1606679271"
+  },
+  {
+    "slug": "cekcyn-south-west-bory-tucholskie-livestream-netmark-itpl",
+    "url": "https://wideokamery.pl/kamery/cekcyn-south-west-bory-tucholskie-livestream-netmark-itpl/",
+    "lat": 53.57245,
+    "lng": 18.00963,
+    "name": "Cekcyn: Bory Tucholskie (LiveStream netm...",
+    "city": "Cekcyn",
+    "windyId": "1793886301"
+  },
+  {
+    "slug": "lubkowo-jezioro-zarnowieckie-puck",
+    "url": "https://wideokamery.pl/kamery/lubkowo-jezioro-zarnowieckie-puck/",
+    "lat": 54.77759,
+    "lng": 18.06436,
+    "name": "Lubkowo: Jezioro Żarnowieckie, Puck",
+    "city": "Lubkowo",
+    "windyId": "1512598269"
+  },
+  {
+    "slug": "brzesko-east",
+    "url": "https://wideokamery.pl/kamery/brzesko-east/",
+    "lat": 49.96776,
+    "lng": 20.60633,
+    "name": "Brzesko",
+    "city": "Brzesko",
+    "windyId": "1609227368"
+  },
+  {
+    "slug": "nowa-slupia",
+    "url": "https://wideokamery.pl/kamery/nowa-slupia/",
+    "lat": 50.86404,
+    "lng": 21.09073,
+    "name": "Nowa Słupia",
+    "city": "Nowa Słupia",
+    "windyId": "1643715250"
+  },
+  {
+    "slug": "sucha-beskidzka-south-boisko-na-zywo",
+    "url": "https://wideokamery.pl/kamery/sucha-beskidzka-south-boisko-na-zywo/",
+    "lat": 49.74038,
+    "lng": 19.59312,
+    "name": "Sucha Beskidzka: Boisko",
+    "city": "Sucha Beskidzka",
+    "windyId": "1793886303"
+  },
+  {
+    "slug": "rybnica-lesna-east-andrzejowka-przelecz-trzech-dolin-pass-three-valleys",
+    "url": "https://wideokamery.pl/kamery/rybnica-lesna-east-andrzejowka-przelecz-trzech-dolin-pass-three-valleys/",
+    "lat": 50.68498,
+    "lng": 16.27799,
+    "name": "Rybnica Lesna: Andrzejówka - Przełęcz Tr...",
+    "city": "Rybnica Lesna",
+    "windyId": "1645013713"
+  },
+  {
+    "slug": "kolaczyce-market-square",
+    "url": "https://wideokamery.pl/kamery/kolaczyce-market-square/",
+    "lat": 49.8068,
+    "lng": 21.43186,
+    "name": "Kołaczyce: Rynek",
+    "city": "Kołaczyce",
+    "windyId": "1513289460"
+  },
+  {
+    "slug": "debki-plaza-debki",
+    "url": "https://wideokamery.pl/kamery/debki-plaza-debki/",
+    "lat": 54.83314,
+    "lng": 18.08822,
+    "name": "Dębki: Plaża Dębki",
+    "city": "Dębki",
+    "windyId": "1663148074"
+  },
+  {
+    "slug": "wloszczowa",
+    "url": "https://wideokamery.pl/kamery/wloszczowa/",
+    "lat": 50.85263,
+    "lng": 19.96629,
+    "name": "Włoszczowa",
+    "city": "Włoszczowa",
+    "windyId": "1624376679"
+  },
+  {
+    "slug": "swinoujscie",
+    "url": "https://wideokamery.pl/kamery/swinoujscie/",
+    "lat": 53.91981,
+    "lng": 14.28645,
+    "name": "Świnoujście",
+    "city": "Świnoujście",
+    "windyId": "1676666878"
+  },
+  {
+    "slug": "lodz-srodmiescie-piotrkowska-narutowicza",
+    "url": "https://wideokamery.pl/kamery/lodz-srodmiescie-piotrkowska-narutowicza/",
+    "lat": 51.77041,
+    "lng": 19.45619,
+    "name": "Łódź: Srodmiescie: Piotrkowska - Narutow...",
+    "city": "Łódź",
+    "windyId": "1621006225"
+  },
+  {
+    "slug": "smerek",
+    "url": "https://wideokamery.pl/kamery/smerek/",
+    "lat": 49.17609,
+    "lng": 22.43996,
+    "name": "Smerek",
+    "city": "Smerek",
+    "windyId": "1683028609"
+  },
+  {
+    "slug": "zator",
+    "url": "https://wideokamery.pl/kamery/zator/",
+    "lat": 49.99625,
+    "lng": 19.4376,
+    "name": "Zator",
+    "city": "Zator",
+    "windyId": "1692535530"
+  },
+  {
+    "slug": "myslowice-centrum-grunwaldzka",
+    "url": "https://wideokamery.pl/kamery/myslowice-centrum-grunwaldzka/",
+    "lat": 50.24263,
+    "lng": 19.14068,
+    "name": "Mysłowice: Centrum: Grunwaldzka",
+    "city": "Mysłowice",
+    "windyId": "1621006399"
+  },
+  {
+    "slug": "krakow-wieczysta-zbigniewa-herberta-trasa-lagiewnicka",
+    "url": "https://wideokamery.pl/kamery/krakow-wieczysta-zbigniewa-herberta-trasa-lagiewnicka/",
+    "lat": 50.01486,
+    "lng": 19.94534,
+    "name": "Kraków: Wieczysta: Zbigniewa Herberta - ...",
+    "city": "Kraków",
+    "windyId": "1674228688"
+  },
+  {
+    "slug": "opole-wieza-piastowska-amfiteatr",
+    "url": "https://wideokamery.pl/kamery/opole-wieza-piastowska-amfiteatr/",
+    "lat": 50.66682,
+    "lng": 17.92364,
+    "name": "Opole: Wieża Piastowska - Amfiteatr",
+    "city": "Opole",
+    "windyId": "1650207408"
+  },
+  {
+    "slug": "kluczbork",
+    "url": "https://wideokamery.pl/kamery/kluczbork/",
+    "lat": 50.97266,
+    "lng": 18.21286,
+    "name": "Kluczbork",
+    "city": "Kluczbork",
+    "windyId": "1624343697"
+  },
+  {
+    "slug": "sopotnia-wielka",
+    "url": "https://wideokamery.pl/kamery/sopotnia-wielka/",
+    "lat": 49.5369,
+    "lng": 19.2334,
+    "name": "Sopotnia Wielka",
+    "city": "Sopotnia Wielka",
+    "windyId": "1611739386"
+  },
+  {
+    "slug": "srebrna-gora-west",
+    "url": "https://wideokamery.pl/kamery/srebrna-gora-west/",
+    "lat": 50.5739,
+    "lng": 16.64295,
+    "name": "Srebrna Gora",
+    "city": "Srebrna Gora",
+    "windyId": "1673601937"
+  },
+  {
+    "slug": "sosnowiec-modrzejow-krakowska-most-niepodleglosci",
+    "url": "https://wideokamery.pl/kamery/sosnowiec-modrzejow-krakowska-most-niepodleglosci/",
+    "lat": 50.24311,
+    "lng": 19.14326,
+    "name": "Sosnowiec: Modrzejow: Krakowska - Most N...",
+    "city": "Sosnowiec",
+    "windyId": "1621006403"
+  },
+  {
+    "slug": "pabianice-zamkowa-traugutta",
+    "url": "https://wideokamery.pl/kamery/pabianice-zamkowa-traugutta/",
+    "lat": 51.66452,
+    "lng": 19.35198,
+    "name": "Pabianice: Zamkowa - Traugutta",
+    "city": "Pabianice",
+    "windyId": "1621006329"
+  },
+  {
+    "slug": "brenna-north-wojewodztwo-slaskie-rzeczpospolita-polska-stok-narciarski",
+    "url": "https://wideokamery.pl/kamery/brenna-north-wojewodztwo-slaskie-rzeczpospolita-polska-stok-narciarski/",
+    "lat": 49.72576,
+    "lng": 18.90249,
+    "name": "Brenna: Stok narciarski",
+    "city": "Brenna",
+    "windyId": "1454243747"
+  },
+  {
+    "slug": "jaworzno-north-north",
+    "url": "https://wideokamery.pl/kamery/jaworzno-north-north/",
+    "lat": 50.21714,
+    "lng": 19.25266,
+    "name": "Jaworzno",
+    "city": "Jaworzno",
+    "windyId": "1684557907"
+  },
+  {
+    "slug": "zlotow-north-wojewodztwo-wielkopolskie-rzeczpospolita-polska-roundabout",
+    "url": "https://wideokamery.pl/kamery/zlotow-north-wojewodztwo-wielkopolskie-rzeczpospolita-polska-roundabout/",
+    "lat": 53.36346,
+    "lng": 17.04082,
+    "name": "Złotów: Roundabout",
+    "city": "Złotów",
+    "windyId": "1442001191"
+  },
+  {
+    "slug": "witkowo",
+    "url": "https://wideokamery.pl/kamery/witkowo/",
+    "lat": 52.43911,
+    "lng": 17.77767,
+    "name": "Witkowo",
+    "city": "Witkowo",
+    "windyId": "1628182761"
+  },
+  {
+    "slug": "aleksandrow-lodzki-north",
+    "url": "https://wideokamery.pl/kamery/aleksandrow-lodzki-north/",
+    "lat": 51.81961,
+    "lng": 19.30252,
+    "name": "Aleksandrów Łódzki",
+    "city": "Aleksandrów Łódzki",
+    "windyId": "1603456456"
+  },
+  {
+    "slug": "przemysl-garbarze-most-siwca",
+    "url": "https://wideokamery.pl/kamery/przemysl-garbarze-most-siwca/",
+    "lat": 49.78851,
+    "lng": 22.77591,
+    "name": "Przemyśl: Garbarze: Most Siwca",
+    "city": "Przemyśl",
+    "windyId": "1621006410"
+  },
+  {
+    "slug": "kolobrzeg-starowka-kolobrzeg-widok-na-port",
+    "url": "https://wideokamery.pl/kamery/kolobrzeg-starowka-kolobrzeg-widok-na-port/",
+    "lat": 54.18645,
+    "lng": 15.554,
+    "name": "Kołobrzeg: Starowka: Kołobrzeg-widok na ...",
+    "city": "Kołobrzeg",
+    "windyId": "1345215773"
+  },
+  {
+    "slug": "gac-north-east-gmina-grudziadz-north-east",
+    "url": "https://wideokamery.pl/kamery/gac-north-east-gmina-grudziadz-north-east/",
+    "lat": 53.52025,
+    "lng": 18.85143,
+    "name": "Gać: gmina Grudziadz",
+    "city": "Gać",
+    "windyId": "1565935885"
+  },
+  {
+    "slug": "kamienica",
+    "url": "https://wideokamery.pl/kamery/kamienica/",
+    "lat": 50.2076,
+    "lng": 16.84697,
+    "name": "Kamienica",
+    "city": "Kamienica",
+    "windyId": "1675691259"
+  },
+  {
+    "slug": "krynica-morska",
+    "url": "https://wideokamery.pl/kamery/krynica-morska/",
+    "lat": 54.37279,
+    "lng": 19.42212,
+    "name": "Krynica Morska",
+    "city": "Krynica Morska",
+    "windyId": "1691672878"
+  },
+  {
+    "slug": "jawor-wojewodztwo-dolnoslaskie-rzeczpospolita-polska-panorama",
+    "url": "https://wideokamery.pl/kamery/jawor-wojewodztwo-dolnoslaskie-rzeczpospolita-polska-panorama/",
+    "lat": 51.05132,
+    "lng": 16.19347,
+    "name": "Jawor: Panorama",
+    "city": "Jawor",
+    "windyId": "1544265566"
+  },
+  {
+    "slug": "rumia",
+    "url": "https://wideokamery.pl/kamery/rumia/",
+    "lat": 54.56479,
+    "lng": 18.38311,
+    "name": "Rumia",
+    "city": "Rumia",
+    "windyId": "1695449919"
+  },
+  {
+    "slug": "zakopane-south-east",
+    "url": "https://wideokamery.pl/kamery/zakopane-south-east/",
+    "lat": 49.29922,
+    "lng": 19.98641,
+    "name": "Zakopane",
+    "city": "Zakopane",
+    "windyId": "1669365606"
+  },
+  {
+    "slug": "gdynia",
+    "url": "https://wideokamery.pl/kamery/gdynia/",
+    "lat": 54.51774,
+    "lng": 18.55502,
+    "name": "Gdynia",
+    "city": "Gdynia",
+    "windyId": "1594018500"
+  },
+  {
+    "slug": "busko-zdroj",
+    "url": "https://wideokamery.pl/kamery/busko-zdroj/",
+    "lat": 50.4587,
+    "lng": 20.71628,
+    "name": "Busko-Zdrój",
+    "city": "Busko-Zdrój",
+    "windyId": "1662661863"
+  },
+  {
+    "slug": "rybnik-south",
+    "url": "https://wideokamery.pl/kamery/rybnik-south/",
+    "lat": 50.07254,
+    "lng": 18.63025,
+    "name": "Rybnik",
+    "city": "Rybnik",
+    "windyId": "1669315961"
+  },
+  {
+    "slug": "plawniowice",
+    "url": "https://wideokamery.pl/kamery/plawniowice/",
+    "lat": 50.3861,
+    "lng": 18.49566,
+    "name": "Plawniowice",
+    "city": "Plawniowice",
+    "windyId": "1603778940"
+  },
+  {
+    "slug": "dziwnow",
+    "url": "https://wideokamery.pl/kamery/dziwnow/",
+    "lat": 54.02831,
+    "lng": 14.75998,
+    "name": "Dziwnów",
+    "city": "Dziwnów",
+    "windyId": "1690971416"
+  },
+  {
+    "slug": "arlamow-wojewodztwo-podkarpackie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/arlamow-wojewodztwo-podkarpackie-rzeczpospolita-polska/",
+    "lat": 49.58333,
+    "lng": 22.66667,
+    "name": "Arlamow",
+    "city": "Arlamow",
+    "windyId": "1539607391"
+  },
+  {
+    "slug": "gwozdzianka-north-wojewodztwo-podkarpackie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/gwozdzianka-north-wojewodztwo-podkarpackie-rzeczpospolita-polska/",
+    "lat": 49.87935,
+    "lng": 21.86134,
+    "name": "Gwozdzianka",
+    "city": "Gwozdzianka",
+    "windyId": "1504985190"
+  },
+  {
+    "slug": "rzeczka-kompleks-wyciagow-narciarskich-gornik",
+    "url": "https://wideokamery.pl/kamery/rzeczka-kompleks-wyciagow-narciarskich-gornik/",
+    "lat": 50.6752,
+    "lng": 16.44853,
+    "name": "Rzeczka: Kompleks Wyciągów Narciarskich ...",
+    "city": "Rzeczka",
+    "windyId": "1641287242"
+  },
+  {
+    "slug": "pisz-rondo-im-lecha-kaczynskiego",
+    "url": "https://wideokamery.pl/kamery/pisz-rondo-im-lecha-kaczynskiego/",
+    "lat": 53.62972,
+    "lng": 21.80273,
+    "name": "Pisz: Rondo im. Lecha Kaczyńskiego",
+    "city": "Pisz",
+    "windyId": "1611150234"
+  },
+  {
+    "slug": "wolborz-lodzkie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/wolborz-lodzkie-rzeczpospolita-polska/",
+    "lat": 51.50196,
+    "lng": 19.83049,
+    "name": "Wolbórz",
+    "city": "Wolbórz",
+    "windyId": "1531387044"
+  },
+  {
+    "slug": "sromowce-nizne",
+    "url": "https://wideokamery.pl/kamery/sromowce-nizne/",
+    "lat": 49.39583,
+    "lng": 20.4088,
+    "name": "Sromowce Nizne",
+    "city": "Sromowce Nizne",
+    "windyId": "1655395942"
+  },
+  {
+    "slug": "leszno-east-wojewodztwo-wielkopolskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/leszno-east-wojewodztwo-wielkopolskie-rzeczpospolita-polska/",
+    "lat": 51.84348,
+    "lng": 16.57443,
+    "name": "Leszno",
+    "city": "Leszno",
+    "windyId": "1527625925"
+  },
+  {
+    "slug": "chelm-north",
+    "url": "https://wideokamery.pl/kamery/chelm-north/",
+    "lat": 51.1,
+    "lng": 23.5,
+    "name": "Chełm",
+    "city": "Chełm",
+    "windyId": "1670155377"
+  },
+  {
+    "slug": "busko-zdroj-wojewodztwo-swietokrzyskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/busko-zdroj-wojewodztwo-swietokrzyskie-rzeczpospolita-polska/",
+    "lat": 50.47078,
+    "lng": 20.71884,
+    "name": "Busko-Zdrój",
+    "city": "Busko-Zdrój",
+    "windyId": "1558907433"
+  },
+  {
+    "slug": "brenna-south-west-blatnia",
+    "url": "https://wideokamery.pl/kamery/brenna-south-west-blatnia/",
+    "lat": 49.74718,
+    "lng": 18.94259,
+    "name": "Brenna: Błatnia",
+    "city": "Brenna",
+    "windyId": "1638258955"
+  },
+  {
+    "slug": "przemysl-plac-konstytucji-3-maja",
+    "url": "https://wideokamery.pl/kamery/przemysl-plac-konstytucji-3-maja/",
+    "lat": 49.78628,
+    "lng": 22.76404,
+    "name": "Przemyśl: Plac Konstytucji 3 Maja",
+    "city": "Przemyśl",
+    "windyId": "1597732073"
+  },
+  {
+    "slug": "lublin-south-east-park-ludowy-fontanna",
+    "url": "https://wideokamery.pl/kamery/lublin-south-east-park-ludowy-fontanna/",
+    "lat": 51.23748,
+    "lng": 22.55891,
+    "name": "Lublin: Park Ludowy - Fontanna",
+    "city": "Lublin",
+    "windyId": "1793891261"
+  },
+  {
+    "slug": "opole-cathedral-of-the-exaltation-of-the-holy-cross",
+    "url": "https://wideokamery.pl/kamery/opole-cathedral-of-the-exaltation-of-the-holy-cross/",
+    "lat": 50.66988,
+    "lng": 17.91804,
+    "name": "Opole: Cathedral of the Exaltation of th...",
+    "city": "Opole",
+    "windyId": "1760135761"
+  },
+  {
+    "slug": "strzyzow-widok-na-strzyzow",
+    "url": "https://wideokamery.pl/kamery/strzyzow-widok-na-strzyzow/",
+    "lat": 49.87332,
+    "lng": 21.8149,
+    "name": "Strzyżów: Widok na Strzyżów",
+    "city": "Strzyżów",
+    "windyId": "1504984758"
+  },
+  {
+    "slug": "lubin-west",
+    "url": "https://wideokamery.pl/kamery/lubin-west/",
+    "lat": 51.37596,
+    "lng": 16.20473,
+    "name": "Lubin",
+    "city": "Lubin",
+    "windyId": "1697461348"
+  },
+  {
+    "slug": "busko-zdroj-teznia-busko-zdroj",
+    "url": "https://wideokamery.pl/kamery/busko-zdroj-teznia-busko-zdroj/",
+    "lat": 50.45987,
+    "lng": 20.71709,
+    "name": "Busko-Zdrój: Tężnia Busko-Zdrój",
+    "city": "Busko-Zdrój",
+    "windyId": "1638253983"
+  },
+  {
+    "slug": "szczecinek",
+    "url": "https://wideokamery.pl/kamery/szczecinek/",
+    "lat": 53.7095,
+    "lng": 16.6931,
+    "name": "Szczecinek",
+    "city": "Szczecinek",
+    "windyId": "1642841332"
+  },
+  {
+    "slug": "elblag-woj-warminsko-mazurskie-rzeczpospolita-polska-mosir-lodowisko",
+    "url": "https://wideokamery.pl/kamery/elblag-woj-warminsko-mazurskie-rzeczpospolita-polska-mosir-lodowisko/",
+    "lat": 54.1522,
+    "lng": 19.40884,
+    "name": "Elbląg: woj. warmińsko-mazurskie: Mosir ...",
+    "city": "Elbląg",
+    "windyId": "1544356557"
+  },
+  {
+    "slug": "lubnow-north",
+    "url": "https://wideokamery.pl/kamery/lubnow-north/",
+    "lat": 51.26012,
+    "lng": 16.89533,
+    "name": "Lubnow",
+    "city": "Lubnow",
+    "windyId": "1696330125"
+  },
+  {
+    "slug": "sopot-gdansk-lech-walesa-airport",
+    "url": "https://wideokamery.pl/kamery/sopot-gdansk-lech-walesa-airport/",
+    "lat": 54.37978,
+    "lng": 18.476,
+    "name": "Sopot: Gdansk Lech Walesa Airport",
+    "city": "Sopot",
+    "windyId": "1708729422"
+  },
+  {
+    "slug": "ilza-north-east-rynek",
+    "url": "https://wideokamery.pl/kamery/ilza-north-east-rynek/",
+    "lat": 51.16208,
+    "lng": 21.23693,
+    "name": "Iłża: Rynek",
+    "city": "Iłża",
+    "windyId": "1446513286"
+  },
+  {
+    "slug": "miedzyrzecz-jezioro-lubikowskie",
+    "url": "https://wideokamery.pl/kamery/miedzyrzecz-jezioro-lubikowskie/",
+    "lat": 52.53525,
+    "lng": 15.70436,
+    "name": "Międzyrzecz: Jezioro Lubikowskie",
+    "city": "Międzyrzecz",
+    "windyId": "1659093050"
+  },
+  {
+    "slug": "czestochowa-south-east",
+    "url": "https://wideokamery.pl/kamery/czestochowa-south-east/",
+    "lat": 50.81271,
+    "lng": 19.12899,
+    "name": "Częstochowa",
+    "city": "Częstochowa",
+    "windyId": "1793891274"
+  },
+  {
+    "slug": "ilza-wojewodztwo-mazowieckie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/ilza-wojewodztwo-mazowieckie-rzeczpospolita-polska/",
+    "lat": 51.16193,
+    "lng": 21.24099,
+    "name": "Iłża",
+    "city": "Iłża",
+    "windyId": "1528480360"
+  },
+  {
+    "slug": "tegoborze",
+    "url": "https://wideokamery.pl/kamery/tegoborze/",
+    "lat": 49.70798,
+    "lng": 20.6405,
+    "name": "Tegoborze",
+    "city": "Tegoborze",
+    "windyId": "1659373938"
+  },
+  {
+    "slug": "kutno-osiedle-grunwald-jana-pawla-ii-podrzeczna",
+    "url": "https://wideokamery.pl/kamery/kutno-osiedle-grunwald-jana-pawla-ii-podrzeczna/",
+    "lat": 52.22926,
+    "lng": 19.36275,
+    "name": "Kutno: Osiedle Grunwald: Jana Pawła II -...",
+    "city": "Kutno",
+    "windyId": "1621006385"
+  },
+  {
+    "slug": "maslow-pierwszy-south-east",
+    "url": "https://wideokamery.pl/kamery/maslow-pierwszy-south-east/",
+    "lat": 50.90084,
+    "lng": 20.73015,
+    "name": "Masłów Pierwszy",
+    "city": "Masłów Pierwszy",
+    "windyId": "1671000644"
+  },
+  {
+    "slug": "piotrkow-trybunalski-stare-miasto-rynek-trybunalski",
+    "url": "https://wideokamery.pl/kamery/piotrkow-trybunalski-stare-miasto-rynek-trybunalski/",
+    "lat": 51.40823,
+    "lng": 19.69608,
+    "name": "Piotrków Trybunalski: Stare Miasto: Ryne...",
+    "city": "Piotrków Trybunalski",
+    "windyId": "1621006350"
+  },
+  {
+    "slug": "piotrkow-trybunalski-slowackiego-kostromska",
+    "url": "https://wideokamery.pl/kamery/piotrkow-trybunalski-slowackiego-kostromska/",
+    "lat": 51.41006,
+    "lng": 19.66858,
+    "name": "Piotrków Trybunalski: Słowackiego - Kost...",
+    "city": "Piotrków Trybunalski",
+    "windyId": "1621006353"
+  },
+  {
+    "slug": "twardogora-urzad-miasta-i-gminy-w-twardogorze",
+    "url": "https://wideokamery.pl/kamery/twardogora-urzad-miasta-i-gminy-w-twardogorze/",
+    "lat": 51.36631,
+    "lng": 17.4668,
+    "name": "Twardogóra: Urząd Miasta i Gminy w Tward...",
+    "city": "Twardogóra",
+    "windyId": "1566732705"
+  },
+  {
+    "slug": "ladek-zdroj-south",
+    "url": "https://wideokamery.pl/kamery/ladek-zdroj-south/",
+    "lat": 50.34708,
+    "lng": 16.89583,
+    "name": "Lądek-Zdrój",
+    "city": "Lądek-Zdrój",
+    "windyId": "1671160902"
+  },
+  {
+    "slug": "korbielow",
+    "url": "https://wideokamery.pl/kamery/korbielow/",
+    "lat": 49.58296,
+    "lng": 19.34301,
+    "name": "Korbielów",
+    "city": "Korbielów",
+    "windyId": "1657442978"
+  },
+  {
+    "slug": "chelm-north-east",
+    "url": "https://wideokamery.pl/kamery/chelm-north-east/",
+    "lat": 51.1,
+    "lng": 23.5,
+    "name": "Chełm",
+    "city": "Chełm",
+    "windyId": "1670155386"
+  },
+  {
+    "slug": "jastarnia",
+    "url": "https://wideokamery.pl/kamery/jastarnia/",
+    "lat": 54.70583,
+    "lng": 18.65778,
+    "name": "Jastarnia",
+    "city": "Jastarnia",
+    "windyId": "1761614801"
+  },
+  {
+    "slug": "leszno-wojewodztwo-wielkopolskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/leszno-wojewodztwo-wielkopolskie-rzeczpospolita-polska/",
+    "lat": 51.84034,
+    "lng": 16.57494,
+    "name": "Leszno",
+    "city": "Leszno",
+    "windyId": "1531498973"
+  },
+  {
+    "slug": "bialogora-wojewodztwo-pomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/bialogora-wojewodztwo-pomorskie-rzeczpospolita-polska/",
+    "lat": 54.82936,
+    "lng": 17.95479,
+    "name": "Bialogora",
+    "city": "Bialogora",
+    "windyId": "1530806889"
+  },
+  {
+    "slug": "przemysl-town-centre-rynek-urzad-miasta",
+    "url": "https://wideokamery.pl/kamery/przemysl-town-centre-rynek-urzad-miasta/",
+    "lat": 49.78236,
+    "lng": 22.76895,
+    "name": "Przemyśl: Town Centre: Rynek - Urząd Mia...",
+    "city": "Przemyśl",
+    "windyId": "1621006419"
+  },
+  {
+    "slug": "brenna-stary-gron-ski-slope",
+    "url": "https://wideokamery.pl/kamery/brenna-stary-gron-ski-slope/",
+    "lat": 49.7253,
+    "lng": 18.903,
+    "name": "Brenna: Stary Groń - Ski slope",
+    "city": "Brenna",
+    "windyId": "1383591613"
+  },
+  {
+    "slug": "kaniow-wp-aero-tech-sp-z-oo-bielski-park-technologiczny-lotnictwa-przedsiebiorczosci-i-innowacji-sp-z-oo-pg-silesia",
+    "url": "https://wideokamery.pl/kamery/kaniow-wp-aero-tech-sp-z-oo-bielski-park-technologiczny-lotnictwa-przedsiebiorczosci-i-innowacji-sp-z-oo-pg-silesia/",
+    "lat": 49.94095,
+    "lng": 19.02321,
+    "name": "Kaniów: WP Aero-Tech Sp. z o.o. - Bielsk...",
+    "city": "Kaniów",
+    "windyId": "1712848665"
+  },
+  {
+    "slug": "henrykow-west",
+    "url": "https://wideokamery.pl/kamery/henrykow-west/",
+    "lat": 50.6531,
+    "lng": 17.01348,
+    "name": "Henryków",
+    "city": "Henryków",
+    "windyId": "1635997480"
+  },
+  {
+    "slug": "tarnobrzeg-lake-tarnobrzeg",
+    "url": "https://wideokamery.pl/kamery/tarnobrzeg-lake-tarnobrzeg/",
+    "lat": 50.55201,
+    "lng": 21.63869,
+    "name": "Tarnobrzeg: Lake Tarnobrzeg",
+    "city": "Tarnobrzeg",
+    "windyId": "1722352893"
+  },
+  {
+    "slug": "krakow-lema-tauron-arena",
+    "url": "https://wideokamery.pl/kamery/krakow-lema-tauron-arena/",
+    "lat": 50.06642,
+    "lng": 19.99175,
+    "name": "Kraków: Lema - Tauron Arena",
+    "city": "Kraków",
+    "windyId": "1690558308"
+  },
+  {
+    "slug": "krosno-krosno-airport",
+    "url": "https://wideokamery.pl/kamery/krosno-krosno-airport/",
+    "lat": 49.68364,
+    "lng": 21.741,
+    "name": "Krosno: Lotnisko",
+    "city": "Krosno",
+    "windyId": "1645447072"
+  },
+  {
+    "slug": "skwierzyna",
+    "url": "https://wideokamery.pl/kamery/skwierzyna/",
+    "lat": 52.59963,
+    "lng": 15.50192,
+    "name": "Skwierzyna",
+    "city": "Skwierzyna",
+    "windyId": "1670066785"
+  },
+  {
+    "slug": "lodz-centrum-kosciuszki-struga",
+    "url": "https://wideokamery.pl/kamery/lodz-centrum-kosciuszki-struga/",
+    "lat": 51.7653,
+    "lng": 19.45431,
+    "name": "Łódź: Centrum: Kościuszki - Struga",
+    "city": "Łódź",
+    "windyId": "1621006218"
+  },
+  {
+    "slug": "gizycko-north-east-jezioro-niegocin",
+    "url": "https://wideokamery.pl/kamery/gizycko-north-east-jezioro-niegocin/",
+    "lat": 53.96684,
+    "lng": 21.76534,
+    "name": "Giżycko: Jezioro Niegocin",
+    "city": "Giżycko",
+    "windyId": "1649739592"
+  },
+  {
+    "slug": "sroda-slaska",
+    "url": "https://wideokamery.pl/kamery/sroda-slaska/",
+    "lat": 51.16389,
+    "lng": 16.59425,
+    "name": "Środa Śląska",
+    "city": "Środa Śląska",
+    "windyId": "1670589064"
+  },
+  {
+    "slug": "ochotnica-dolna-luban",
+    "url": "https://wideokamery.pl/kamery/ochotnica-dolna-luban/",
+    "lat": 49.48899,
+    "lng": 20.33945,
+    "name": "Ochotnica Dolna: Luban",
+    "city": "Ochotnica Dolna",
+    "windyId": "1449412135"
+  },
+  {
+    "slug": "chelm-south-west",
+    "url": "https://wideokamery.pl/kamery/chelm-south-west/",
+    "lat": 51.1,
+    "lng": 23.5,
+    "name": "Chełm",
+    "city": "Chełm",
+    "windyId": "1670155406"
+  },
+  {
+    "slug": "zakliczyn-market-square",
+    "url": "https://wideokamery.pl/kamery/zakliczyn-market-square/",
+    "lat": 49.85598,
+    "lng": 20.80682,
+    "name": "Zakliczyn: Rynek",
+    "city": "Zakliczyn",
+    "windyId": "1498821060"
+  },
+  {
+    "slug": "bialystok-west",
+    "url": "https://wideokamery.pl/kamery/bialystok-west/",
+    "lat": 53.13252,
+    "lng": 23.16048,
+    "name": "Białystok",
+    "city": "Białystok",
+    "windyId": "1793892505"
+  },
+  {
+    "slug": "wojnowice-koscielna-6-parafia-podwyzszenia-krzyza-swietego",
+    "url": "https://wideokamery.pl/kamery/wojnowice-koscielna-6-parafia-podwyzszenia-krzyza-swietego/",
+    "lat": 50.05478,
+    "lng": 18.15392,
+    "name": "Wojnowice: kościelna 6: Parafia Podwyższ...",
+    "city": "Wojnowice",
+    "windyId": "1546606565"
+  },
+  {
+    "slug": "grodek-nad-dunajcem-west",
+    "url": "https://wideokamery.pl/kamery/grodek-nad-dunajcem-west/",
+    "lat": 49.74831,
+    "lng": 20.73329,
+    "name": "Gródek nad Dunajcem",
+    "city": "Gródek nad Dunajcem",
+    "windyId": "1659882983"
+  },
+  {
+    "slug": "mirsk-ratusz",
+    "url": "https://wideokamery.pl/kamery/mirsk-ratusz/",
+    "lat": 50.97218,
+    "lng": 15.38579,
+    "name": "Mirsk: Ratusz",
+    "city": "Mirsk",
+    "windyId": "1663926244"
+  },
+  {
+    "slug": "ciezkowice-north",
+    "url": "https://wideokamery.pl/kamery/ciezkowice-north/",
+    "lat": 49.78559,
+    "lng": 20.97377,
+    "name": "Ciężkowice",
+    "city": "Ciężkowice",
+    "windyId": "1659373637"
+  },
+  {
+    "slug": "lodz-nowe-centrum-lodzi-dworzec-lodz-fabryczna-1",
+    "url": "https://wideokamery.pl/kamery/lodz-nowe-centrum-lodzi-dworzec-lodz-fabryczna-1/",
+    "lat": 51.77001,
+    "lng": 19.46848,
+    "name": "Łódź: Nowe Centrum Lodzi: Dworzec - Łódź...",
+    "city": "Łódź",
+    "windyId": "1627054215"
+  },
+  {
+    "slug": "sanok",
+    "url": "https://wideokamery.pl/kamery/sanok/",
+    "lat": 49.57423,
+    "lng": 22.20934,
+    "name": "Sanok",
+    "city": "Sanok",
+    "windyId": "1712300661"
+  },
+  {
+    "slug": "suszyna",
+    "url": "https://wideokamery.pl/kamery/suszyna/",
+    "lat": 50.47539,
+    "lng": 16.51455,
+    "name": "Suszyna",
+    "city": "Suszyna",
+    "windyId": "1691336573"
+  },
+  {
+    "slug": "krosno-south-west",
+    "url": "https://wideokamery.pl/kamery/krosno-south-west/",
+    "lat": 49.68739,
+    "lng": 21.77267,
+    "name": "Krosno",
+    "city": "Krosno",
+    "windyId": "1641737904"
+  },
+  {
+    "slug": "maslow-pierwszy-south",
+    "url": "https://wideokamery.pl/kamery/maslow-pierwszy-south/",
+    "lat": 50.89848,
+    "lng": 20.73214,
+    "name": "Masłów Pierwszy",
+    "city": "Masłów Pierwszy",
+    "windyId": "1668429516"
+  },
+  {
+    "slug": "unislaw-slaski-north-east",
+    "url": "https://wideokamery.pl/kamery/unislaw-slaski-north-east/",
+    "lat": 50.72054,
+    "lng": 16.21063,
+    "name": "Unislaw Slaski",
+    "city": "Unislaw Slaski",
+    "windyId": "1641131199"
+  },
+  {
+    "slug": "lodz-lublinek-port-lotniczy-lodz-im-wladyslawa-reymonta-2",
+    "url": "https://wideokamery.pl/kamery/lodz-lublinek-port-lotniczy-lodz-im-wladyslawa-reymonta-2/",
+    "lat": 51.72728,
+    "lng": 19.40353,
+    "name": "Łódź: Lublinek: Port Lotniczy Łódź - im....",
+    "city": "Łódź",
+    "windyId": "1621006245"
+  },
+  {
+    "slug": "szczecin",
+    "url": "https://wideokamery.pl/kamery/szczecin/",
+    "lat": 53.42269,
+    "lng": 14.56314,
+    "name": "Szczecin",
+    "city": "Szczecin",
+    "windyId": "1692382336"
+  },
+  {
+    "slug": "solina",
+    "url": "https://wideokamery.pl/kamery/solina/",
+    "lat": 49.39318,
+    "lng": 22.46006,
+    "name": "Solina",
+    "city": "Solina",
+    "windyId": "1717700016"
+  },
+  {
+    "slug": "debrzno-tadeusza-kosciuszki",
+    "url": "https://wideokamery.pl/kamery/debrzno-tadeusza-kosciuszki/",
+    "lat": 53.53532,
+    "lng": 17.23546,
+    "name": "Debrzno: Tadeusza Kościuszki",
+    "city": "Debrzno",
+    "windyId": "1636196070"
+  },
+  {
+    "slug": "kombornia-south-winnica-widokowa",
+    "url": "https://wideokamery.pl/kamery/kombornia-south-winnica-widokowa/",
+    "lat": 49.7324,
+    "lng": 21.85824,
+    "name": "Kombornia: Winnica Widokowa",
+    "city": "Kombornia",
+    "windyId": "1619426316"
+  },
+  {
+    "slug": "dachowa-south-west-borowiec",
+    "url": "https://wideokamery.pl/kamery/dachowa-south-west-borowiec/",
+    "lat": 52.3,
+    "lng": 17.1,
+    "name": "Dachowa: Borowiec",
+    "city": "Dachowa",
+    "windyId": "1720353909"
+  },
+  {
+    "slug": "zagorz-east-san-river",
+    "url": "https://wideokamery.pl/kamery/zagorz-east-san-river/",
+    "lat": 49.52915,
+    "lng": 22.27477,
+    "name": "Zagórz: San river",
+    "city": "Zagórz",
+    "windyId": "1498810260"
+  },
+  {
+    "slug": "gliwice-south-east",
+    "url": "https://wideokamery.pl/kamery/gliwice-south-east/",
+    "lat": 50.27136,
+    "lng": 18.67797,
+    "name": "Gliwice",
+    "city": "Gliwice",
+    "windyId": "1694593034"
+  },
+  {
+    "slug": "koniakow",
+    "url": "https://wideokamery.pl/kamery/koniakow/",
+    "lat": 49.56389,
+    "lng": 18.97139,
+    "name": "Koniaków",
+    "city": "Koniaków",
+    "windyId": "1761581970"
+  },
+  {
+    "slug": "ryn-east",
+    "url": "https://wideokamery.pl/kamery/ryn-east/",
+    "lat": 53.899,
+    "lng": 21.66621,
+    "name": "Ryn",
+    "city": "Ryn",
+    "windyId": "1679578364"
+  },
+  {
+    "slug": "plock",
+    "url": "https://wideokamery.pl/kamery/plock/",
+    "lat": 52.56225,
+    "lng": 19.71217,
+    "name": "Płock",
+    "city": "Płock",
+    "windyId": "1681812474"
+  },
+  {
+    "slug": "kozienice",
+    "url": "https://wideokamery.pl/kamery/kozienice/",
+    "lat": 51.59808,
+    "lng": 21.54009,
+    "name": "Kozienice",
+    "city": "Kozienice",
+    "windyId": "1726469792"
+  },
+  {
+    "slug": "lodz-osiedle-zagrodniki-bratyslawska-waltera-janke",
+    "url": "https://wideokamery.pl/kamery/lodz-osiedle-zagrodniki-bratyslawska-waltera-janke/",
+    "lat": 51.74627,
+    "lng": 19.42007,
+    "name": "Łódź: Osiedle Zagrodniki: Bratysławska -...",
+    "city": "Łódź",
+    "windyId": "1621006216"
+  },
+  {
+    "slug": "gdynia-kosciuszko-square",
+    "url": "https://wideokamery.pl/kamery/gdynia-kosciuszko-square/",
+    "lat": 54.51871,
+    "lng": 18.54795,
+    "name": "Gdynia: Kościuszko Square",
+    "city": "Gdynia",
+    "windyId": "1722872241"
+  },
+  {
+    "slug": "reda",
+    "url": "https://wideokamery.pl/kamery/reda/",
+    "lat": 54.60433,
+    "lng": 18.35052,
+    "name": "Reda",
+    "city": "Reda",
+    "windyId": "1692013834"
+  },
+  {
+    "slug": "piotrkow-trybunalski-osiedle-gorna-sikorskiego-armii-krajowej",
+    "url": "https://wideokamery.pl/kamery/piotrkow-trybunalski-osiedle-gorna-sikorskiego-armii-krajowej/",
+    "lat": 51.40607,
+    "lng": 19.67653,
+    "name": "Piotrków Trybunalski: Osiedle Gorna: Sik...",
+    "city": "Piotrków Trybunalski",
+    "windyId": "1621006352"
+  },
+  {
+    "slug": "iwkowa-east",
+    "url": "https://wideokamery.pl/kamery/iwkowa-east/",
+    "lat": 49.81479,
+    "lng": 20.59311,
+    "name": "Iwkowa",
+    "city": "Iwkowa",
+    "windyId": "1659373749"
+  },
+  {
+    "slug": "debki-rzeczpospolita",
+    "url": "https://wideokamery.pl/kamery/debki-rzeczpospolita/",
+    "lat": 54.82986,
+    "lng": 18.08813,
+    "name": "Dębki",
+    "city": "Dębki",
+    "windyId": "1497582660"
+  },
+  {
+    "slug": "jodlowka-tuchowska-south",
+    "url": "https://wideokamery.pl/kamery/jodlowka-tuchowska-south/",
+    "lat": 49.84363,
+    "lng": 21.09631,
+    "name": "Jodlowka Tuchowska",
+    "city": "Jodlowka Tuchowska",
+    "windyId": "1685700161"
+  },
+  {
+    "slug": "zalesie",
+    "url": "https://wideokamery.pl/kamery/zalesie/",
+    "lat": 49.63277,
+    "lng": 20.34129,
+    "name": "Zalesie",
+    "city": "Zalesie",
+    "windyId": "1723891039"
+  },
+  {
+    "slug": "dachowa-south-east-borowiec",
+    "url": "https://wideokamery.pl/kamery/dachowa-south-east-borowiec/",
+    "lat": 52.3,
+    "lng": 17.1,
+    "name": "Dachowa: Borowiec",
+    "city": "Dachowa",
+    "windyId": "1720353907"
+  },
+  {
+    "slug": "gdynia-marina-yacht-park-statek-muzeum-dar-pomorza-sea-towers-ship-museum-orp-blyskawica-kosciuszki-square",
+    "url": "https://wideokamery.pl/kamery/gdynia-marina-yacht-park-statek-muzeum-dar-pomorza-sea-towers-ship-museum-orp-blyskawica-kosciuszki-square/",
+    "lat": 54.52128,
+    "lng": 18.55341,
+    "name": "Gdynia: Marina Yacht Park - Statek-muzeu...",
+    "city": "Gdynia",
+    "windyId": "1704458515"
+  },
+  {
+    "slug": "lodz-centrum-piotrkowska-aleja-leona-schillera",
+    "url": "https://wideokamery.pl/kamery/lodz-centrum-piotrkowska-aleja-leona-schillera/",
+    "lat": 51.76363,
+    "lng": 19.45763,
+    "name": "Łódź: Centrum: Piotrkowska - aleja Leona...",
+    "city": "Łódź",
+    "windyId": "1621006238"
+  },
+  {
+    "slug": "lodz-centrum-politechniki-wroblewskiego",
+    "url": "https://wideokamery.pl/kamery/lodz-centrum-politechniki-wroblewskiego/",
+    "lat": 51.74451,
+    "lng": 19.45121,
+    "name": "Łódź: Centrum: Politechniki - Wróblewski...",
+    "city": "Łódź",
+    "windyId": "1613890427"
+  },
+  {
+    "slug": "piotrkow-trybunalski-osiedle-sadowa-druga-rondo-solidarnosci",
+    "url": "https://wideokamery.pl/kamery/piotrkow-trybunalski-osiedle-sadowa-druga-rondo-solidarnosci/",
+    "lat": 51.41651,
+    "lng": 19.67962,
+    "name": "Piotrków Trybunalski: Osiedle Sadowa Dru...",
+    "city": "Piotrków Trybunalski",
+    "windyId": "1621006341"
+  },
+  {
+    "slug": "lodz-centrum-wojska-polskiego-aleja-palki",
+    "url": "https://wideokamery.pl/kamery/lodz-centrum-wojska-polskiego-aleja-palki/",
+    "lat": 51.79233,
+    "lng": 19.48863,
+    "name": "Łódź: Centrum: Wojska Polskiego - aleja ...",
+    "city": "Łódź",
+    "windyId": "1621006320"
+  },
+  {
+    "slug": "raciborz-south-east",
+    "url": "https://wideokamery.pl/kamery/raciborz-south-east/",
+    "lat": 50.12096,
+    "lng": 18.15289,
+    "name": "Racibórz",
+    "city": "Racibórz",
+    "windyId": "1691957482"
+  },
+  {
+    "slug": "korbielow-west",
+    "url": "https://wideokamery.pl/kamery/korbielow-west/",
+    "lat": 49.55673,
+    "lng": 19.33934,
+    "name": "Korbielów",
+    "city": "Korbielów",
+    "windyId": "1668866392"
+  },
+  {
+    "slug": "olesno-north-kosciol-najswietszego-serca-pana-jezusa-w-chudobie",
+    "url": "https://wideokamery.pl/kamery/olesno-north-kosciol-najswietszego-serca-pana-jezusa-w-chudobie/",
+    "lat": 50.86212,
+    "lng": 18.28531,
+    "name": "Olesno: Kościół Najświętszego Serca Pana...",
+    "city": "Olesno",
+    "windyId": "1668775762"
+  },
+  {
+    "slug": "warszkowo-przystan-nadole",
+    "url": "https://wideokamery.pl/kamery/warszkowo-przystan-nadole/",
+    "lat": 54.74614,
+    "lng": 18.05453,
+    "name": "Warszkowo: Przystań Nadole",
+    "city": "Warszkowo",
+    "windyId": "1647350463"
+  },
+  {
+    "slug": "kowal-wojewodztwo-kujawsko-pomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/kowal-wojewodztwo-kujawsko-pomorskie-rzeczpospolita-polska/",
+    "lat": 52.53019,
+    "lng": 19.14767,
+    "name": "Kowal",
+    "city": "Kowal",
+    "windyId": "1531228060"
+  },
+  {
+    "slug": "gniezno-south-west-panorama-miasta-na-zywo",
+    "url": "https://wideokamery.pl/kamery/gniezno-south-west-panorama-miasta-na-zywo/",
+    "lat": 52.54174,
+    "lng": 17.60517,
+    "name": "Gniezno: Panorama miasta",
+    "city": "Gniezno",
+    "windyId": "1793886288"
+  },
+  {
+    "slug": "warszkowo-przystan-lubkowo-dps",
+    "url": "https://wideokamery.pl/kamery/warszkowo-przystan-lubkowo-dps/",
+    "lat": 54.76091,
+    "lng": 18.07675,
+    "name": "Warszkowo: Przystań Lubkowo DPS",
+    "city": "Warszkowo",
+    "windyId": "1647350325"
+  },
+  {
+    "slug": "lodz-srodmiescie-plac-wolnosci",
+    "url": "https://wideokamery.pl/kamery/lodz-srodmiescie-plac-wolnosci/",
+    "lat": 51.77679,
+    "lng": 19.45476,
+    "name": "Łódź: Srodmiescie: Plac Wolności",
+    "city": "Łódź",
+    "windyId": "1621006240"
+  },
+  {
+    "slug": "glogow-north-east-bulwar-nadodrzanski",
+    "url": "https://wideokamery.pl/kamery/glogow-north-east-bulwar-nadodrzanski/",
+    "lat": 51.66368,
+    "lng": 16.09356,
+    "name": "Głogów: Bulwar Nadodrzański",
+    "city": "Głogów",
+    "windyId": "1660457468"
+  },
+  {
+    "slug": "lodz-centrum-piotrkowska-nawrot",
+    "url": "https://wideokamery.pl/kamery/lodz-centrum-piotrkowska-nawrot/",
+    "lat": 51.76235,
+    "lng": 19.45791,
+    "name": "Łódź: Centrum: Piotrkowska - Nawrot",
+    "city": "Łódź",
+    "windyId": "1617961480"
+  },
+  {
+    "slug": "dachowa-north-borowiec",
+    "url": "https://wideokamery.pl/kamery/dachowa-north-borowiec/",
+    "lat": 52.3,
+    "lng": 17.1,
+    "name": "Dachowa: Borowiec",
+    "city": "Dachowa",
+    "windyId": "1720958509"
+  },
+  {
+    "slug": "jurata-pier-jastarnia",
+    "url": "https://wideokamery.pl/kamery/jurata-pier-jastarnia/",
+    "lat": 54.68186,
+    "lng": 18.71091,
+    "name": "Jurata: Pier, Jastarnia",
+    "city": "Jurata",
+    "windyId": "1497888660"
+  },
+  {
+    "slug": "przemysl-town-centre-plac-niepodleglosci",
+    "url": "https://wideokamery.pl/kamery/przemysl-town-centre-plac-niepodleglosci/",
+    "lat": 49.78171,
+    "lng": 22.77304,
+    "name": "Przemyśl: Town Centre: Plac Niepodległoś...",
+    "city": "Przemyśl",
+    "windyId": "1621006417"
+  },
+  {
+    "slug": "wegorzewo-north-east",
+    "url": "https://wideokamery.pl/kamery/wegorzewo-north-east/",
+    "lat": 54.20973,
+    "lng": 21.7366,
+    "name": "Węgorzewo",
+    "city": "Węgorzewo",
+    "windyId": "1670930865"
+  },
+  {
+    "slug": "kobyle-frysztak-krosnienski",
+    "url": "https://wideokamery.pl/kamery/kobyle-frysztak-krosnienski/",
+    "lat": 49.84164,
+    "lng": 21.60942,
+    "name": "Kobyle: Frysztak Krosnienski",
+    "city": "Kobyle",
+    "windyId": "1642366373"
+  },
+  {
+    "slug": "knyszyn-rynek",
+    "url": "https://wideokamery.pl/kamery/knyszyn-rynek/",
+    "lat": 53.31233,
+    "lng": 22.92089,
+    "name": "Knyszyn: Rynek",
+    "city": "Knyszyn",
+    "windyId": "1560202617"
+  },
+  {
+    "slug": "krakow-south-west-kombatantow",
+    "url": "https://wideokamery.pl/kamery/krakow-south-west-kombatantow/",
+    "lat": 50.09247,
+    "lng": 20.00732,
+    "name": "Kraków: Kombatantów",
+    "city": "Kraków",
+    "windyId": "1759317293"
+  },
+  {
+    "slug": "kutno-osiedle-olimpijskie-oporowska-jana-pawla-ii",
+    "url": "https://wideokamery.pl/kamery/kutno-osiedle-olimpijskie-oporowska-jana-pawla-ii/",
+    "lat": 52.23261,
+    "lng": 19.36578,
+    "name": "Kutno: Osiedle Olimpijskie: Oporowska - ...",
+    "city": "Kutno",
+    "windyId": "1621006390"
+  },
+  {
+    "slug": "korbielow-east",
+    "url": "https://wideokamery.pl/kamery/korbielow-east/",
+    "lat": 49.55679,
+    "lng": 19.33957,
+    "name": "Korbielów",
+    "city": "Korbielów",
+    "windyId": "1668866303"
+  },
+  {
+    "slug": "brzostek-south",
+    "url": "https://wideokamery.pl/kamery/brzostek-south/",
+    "lat": 49.87997,
+    "lng": 21.41033,
+    "name": "Brzostek",
+    "city": "Brzostek",
+    "windyId": "1663163760"
+  },
+  {
+    "slug": "jamna-gorna",
+    "url": "https://wideokamery.pl/kamery/jamna-gorna/",
+    "lat": 49.58929,
+    "lng": 22.62859,
+    "name": "Jamna Gorna",
+    "city": "Jamna Gorna",
+    "windyId": "1701009825"
+  },
+  {
+    "slug": "ksawerow-lodzka-pocztowa",
+    "url": "https://wideokamery.pl/kamery/ksawerow-lodzka-pocztowa/",
+    "lat": 51.6826,
+    "lng": 19.40266,
+    "name": "Ksawerów: Łódzka-Pocztowa",
+    "city": "Ksawerów",
+    "windyId": "1631287817"
+  },
+  {
+    "slug": "dachowa-north-west-borowiec",
+    "url": "https://wideokamery.pl/kamery/dachowa-north-west-borowiec/",
+    "lat": 52.3,
+    "lng": 17.1,
+    "name": "Dachowa: Borowiec",
+    "city": "Dachowa",
+    "windyId": "1720353911"
+  },
+  {
+    "slug": "dachowa-north-east-borowiec",
+    "url": "https://wideokamery.pl/kamery/dachowa-north-east-borowiec/",
+    "lat": 52.3,
+    "lng": 17.1,
+    "name": "Dachowa: Borowiec",
+    "city": "Dachowa",
+    "windyId": "1720353877"
+  },
+  {
+    "slug": "chelm-north-west",
+    "url": "https://wideokamery.pl/kamery/chelm-north-west/",
+    "lat": 51.1,
+    "lng": 23.5,
+    "name": "Chełm",
+    "city": "Chełm",
+    "windyId": "1670155422"
+  },
+  {
+    "slug": "turek-south-east",
+    "url": "https://wideokamery.pl/kamery/turek-south-east/",
+    "lat": 52.01627,
+    "lng": 18.50067,
+    "name": "Turek",
+    "city": "Turek",
+    "windyId": "1793893829"
+  },
+  {
+    "slug": "gdansk-gdansk-carousel-nowa-motlawa-hilton-gdansk",
+    "url": "https://wideokamery.pl/kamery/gdansk-gdansk-carousel-nowa-motlawa-hilton-gdansk/",
+    "lat": 54.35195,
+    "lng": 18.659,
+    "name": "Gdańsk: Carousel - Nowa Motława - Hilton...",
+    "city": "Gdańsk",
+    "windyId": "1759906612"
+  },
+  {
+    "slug": "rybnik-old-town-in-rybnik",
+    "url": "https://wideokamery.pl/kamery/rybnik-old-town-in-rybnik/",
+    "lat": 50.09518,
+    "lng": 18.54224,
+    "name": "Rybnik: Stare Miasto",
+    "city": "Rybnik",
+    "windyId": "1728382161"
+  },
+  {
+    "slug": "suchoraba-suchora-lesser-poland-voivodeship-poland-allsky",
+    "url": "https://wideokamery.pl/kamery/suchoraba-suchora-lesser-poland-voivodeship-poland-allsky/",
+    "lat": 49.56963,
+    "lng": 20.06723,
+    "name": "Suchoraba: Allsky",
+    "city": "Suchoraba",
+    "windyId": "1489093598"
+  },
+  {
+    "slug": "gizycko-south-east",
+    "url": "https://wideokamery.pl/kamery/gizycko-south-east/",
+    "lat": 53.96359,
+    "lng": 21.74784,
+    "name": "Giżycko",
+    "city": "Giżycko",
+    "windyId": "1678615420"
+  },
+  {
+    "slug": "karpacz-east-dom-slaski-karpacz",
+    "url": "https://wideokamery.pl/kamery/karpacz-east-dom-slaski-karpacz/",
+    "lat": 50.73916,
+    "lng": 15.72929,
+    "name": "Karpacz: Dom Śląski Karpacz",
+    "city": "Karpacz",
+    "windyId": "1760519786"
+  },
+  {
+    "slug": "lodz-retkinia-wyszynskiego-armii-krajowej",
+    "url": "https://wideokamery.pl/kamery/lodz-retkinia-wyszynskiego-armii-krajowej/",
+    "lat": 51.74627,
+    "lng": 19.39813,
+    "name": "Łódź: Retkinia: Wyszyńskiego - Armii Kra...",
+    "city": "Łódź",
+    "windyId": "1622215816"
+  },
+  {
+    "slug": "warsaw-south-west",
+    "url": "https://wideokamery.pl/kamery/warsaw-south-west/",
+    "lat": 52.23778,
+    "lng": 21.03278,
+    "name": "Warszawa: Warsaw",
+    "city": "Warszawa",
+    "windyId": "1793876407"
+  },
+  {
+    "slug": "slupca-north-west",
+    "url": "https://wideokamery.pl/kamery/slupca-north-west/",
+    "lat": 52.28866,
+    "lng": 17.87289,
+    "name": "Słupca",
+    "city": "Słupca",
+    "windyId": "1793889296"
+  },
+  {
+    "slug": "jastarnia-pier",
+    "url": "https://wideokamery.pl/kamery/jastarnia-pier/",
+    "lat": 54.69702,
+    "lng": 18.66963,
+    "name": "Jastarnia: Pier",
+    "city": "Jastarnia",
+    "windyId": "1497903060"
+  },
+  {
+    "slug": "luslawice-east",
+    "url": "https://wideokamery.pl/kamery/luslawice-east/",
+    "lat": 49.85594,
+    "lng": 20.82853,
+    "name": "Luslawice",
+    "city": "Luslawice",
+    "windyId": "1659883099"
+  },
+  {
+    "slug": "koszalin-wojewodztwo-zachodniopomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/koszalin-wojewodztwo-zachodniopomorskie-rzeczpospolita-polska/",
+    "lat": 54.19438,
+    "lng": 16.17222,
+    "name": "Koszalin",
+    "city": "Koszalin",
+    "windyId": "1523212441"
+  },
+  {
+    "slug": "zwierzyn",
+    "url": "https://wideokamery.pl/kamery/zwierzyn/",
+    "lat": 49.44004,
+    "lng": 22.38329,
+    "name": "Zwierzyń",
+    "city": "Zwierzyń",
+    "windyId": "1639124378"
+  },
+  {
+    "slug": "krakow",
+    "url": "https://wideokamery.pl/kamery/krakow/",
+    "lat": 50.06656,
+    "lng": 19.95983,
+    "name": "Kraków",
+    "city": "Kraków",
+    "windyId": "1793893821"
+  },
+  {
+    "slug": "lodz-stare-miasto-manufaktura-rynek-2",
+    "url": "https://wideokamery.pl/kamery/lodz-stare-miasto-manufaktura-rynek-2/",
+    "lat": 51.78014,
+    "lng": 19.44813,
+    "name": "Łódź: Stare Miasto: Manufaktura - Rynek ...",
+    "city": "Łódź",
+    "windyId": "1621006220"
+  },
+  {
+    "slug": "warsaw-south-the-royal-castle-in-warsaw-castle-square-warsaw",
+    "url": "https://wideokamery.pl/kamery/warsaw-south-the-royal-castle-in-warsaw-castle-square-warsaw/",
+    "lat": 52.24825,
+    "lng": 21.01388,
+    "name": "Warszawa: The Royal Castle in Warsaw - C...",
+    "city": "Warszawa",
+    "windyId": "1793876409"
+  },
+  {
+    "slug": "ryglice-west",
+    "url": "https://wideokamery.pl/kamery/ryglice-west/",
+    "lat": 49.87849,
+    "lng": 21.13867,
+    "name": "Ryglice",
+    "city": "Ryglice",
+    "windyId": "1685104013"
+  },
+  {
+    "slug": "cieszyn-south",
+    "url": "https://wideokamery.pl/kamery/cieszyn-south/",
+    "lat": 49.75643,
+    "lng": 18.63292,
+    "name": "Cieszyn",
+    "city": "Cieszyn",
+    "windyId": "1717831128"
+  },
+  {
+    "slug": "lodz-osiedle-slowianskie-zakladowa-hetmanska",
+    "url": "https://wideokamery.pl/kamery/lodz-osiedle-slowianskie-zakladowa-hetmanska/",
+    "lat": 51.74049,
+    "lng": 19.56897,
+    "name": "Łódź: Osiedle Slowianskie: Zakładowa - H...",
+    "city": "Łódź",
+    "windyId": "1622215818"
+  },
+  {
+    "slug": "olesnica-south",
+    "url": "https://wideokamery.pl/kamery/olesnica-south/",
+    "lat": 51.21097,
+    "lng": 17.38439,
+    "name": "Oleśnica",
+    "city": "Oleśnica",
+    "windyId": "1692393248"
+  },
+  {
+    "slug": "lodz-centrum-rondo-solidarnosci-polnocny-wschod",
+    "url": "https://wideokamery.pl/kamery/lodz-centrum-rondo-solidarnosci-polnocny-wschod/",
+    "lat": 51.77921,
+    "lng": 19.48132,
+    "name": "Łódź: Centrum: Rondo Solidarności - półn...",
+    "city": "Łódź",
+    "windyId": "1621006315"
+  },
+  {
+    "slug": "leszno",
+    "url": "https://wideokamery.pl/kamery/leszno/",
+    "lat": 52.2575,
+    "lng": 20.57833,
+    "name": "Leszno",
+    "city": "Leszno",
+    "windyId": "1761521488"
+  },
+  {
+    "slug": "pabianice-warszawska-majdany",
+    "url": "https://wideokamery.pl/kamery/pabianice-warszawska-majdany/",
+    "lat": 51.6638,
+    "lng": 19.37201,
+    "name": "Pabianice: Warszawska - Majdany",
+    "city": "Pabianice",
+    "windyId": "1641569411"
+  },
+  {
+    "slug": "strzelin",
+    "url": "https://wideokamery.pl/kamery/strzelin/",
+    "lat": 50.78079,
+    "lng": 17.07124,
+    "name": "Strzelin",
+    "city": "Strzelin",
+    "windyId": "1690732395"
+  },
+  {
+    "slug": "lodz-chojny-rondo-insurekcji-kosciuszkowskiej",
+    "url": "https://wideokamery.pl/kamery/lodz-chojny-rondo-insurekcji-kosciuszkowskiej/",
+    "lat": 51.73232,
+    "lng": 19.4782,
+    "name": "Łódź: Chojny: Rondo Insurekcji Kościuszk...",
+    "city": "Łódź",
+    "windyId": "1621006305"
+  },
+  {
+    "slug": "koszalin-park-ksiazat-pomorskich",
+    "url": "https://wideokamery.pl/kamery/koszalin-park-ksiazat-pomorskich/",
+    "lat": 54.19438,
+    "lng": 16.17222,
+    "name": "Koszalin: Park Książąt Pomorskich",
+    "city": "Koszalin",
+    "windyId": "1560955478"
+  },
+  {
+    "slug": "wankowa-south-west",
+    "url": "https://wideokamery.pl/kamery/wankowa-south-west/",
+    "lat": 49.50955,
+    "lng": 22.47631,
+    "name": "Wańkowa",
+    "city": "Wańkowa",
+    "windyId": "1641648702"
+  },
+  {
+    "slug": "zakliczyn-north-lks-dunajec-zakliczyn",
+    "url": "https://wideokamery.pl/kamery/zakliczyn-north-lks-dunajec-zakliczyn/",
+    "lat": 49.86047,
+    "lng": 20.80536,
+    "name": "Zakliczyn: Lks Dunajec Zakliczyn",
+    "city": "Zakliczyn",
+    "windyId": "1659374022"
+  },
+  {
+    "slug": "lodz-widzew-wschod-rondo-inwalidow",
+    "url": "https://wideokamery.pl/kamery/lodz-widzew-wschod-rondo-inwalidow/",
+    "lat": 51.76067,
+    "lng": 19.53758,
+    "name": "Łódź: Widzew Wschod: Rondo Inwalidów",
+    "city": "Łódź",
+    "windyId": "1621006307"
+  },
+  {
+    "slug": "polomia",
+    "url": "https://wideokamery.pl/kamery/polomia/",
+    "lat": 49.87865,
+    "lng": 21.86133,
+    "name": "Połomia",
+    "city": "Połomia",
+    "windyId": "1704466749"
+  },
+  {
+    "slug": "jaslo",
+    "url": "https://wideokamery.pl/kamery/jaslo/",
+    "lat": 49.74705,
+    "lng": 21.47431,
+    "name": "Jasło",
+    "city": "Jasło",
+    "windyId": "1726135194"
+  },
+  {
+    "slug": "kwidzyn-mural-w-kwidzynie",
+    "url": "https://wideokamery.pl/kamery/kwidzyn-mural-w-kwidzynie/",
+    "lat": 53.73358,
+    "lng": 18.93192,
+    "name": "Kwidzyn: Mural w Kwidzynie",
+    "city": "Kwidzyn",
+    "windyId": "1717319794"
+  },
+  {
+    "slug": "hel-west-wojewodztwo-pomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/hel-west-wojewodztwo-pomorskie-rzeczpospolita-polska/",
+    "lat": 54.60878,
+    "lng": 18.80104,
+    "name": "Hel",
+    "city": "Hel",
+    "windyId": "1459766972"
+  },
+  {
+    "slug": "chelm-south-east",
+    "url": "https://wideokamery.pl/kamery/chelm-south-east/",
+    "lat": 51.1,
+    "lng": 23.5,
+    "name": "Chełm",
+    "city": "Chełm",
+    "windyId": "1670155393"
+  },
+  {
+    "slug": "zgierz-kurak-lodzka-poludnie",
+    "url": "https://wideokamery.pl/kamery/zgierz-kurak-lodzka-poludnie/",
+    "lat": 51.84644,
+    "lng": 19.41426,
+    "name": "Zgierz: Kurak: Łódzka-Południe",
+    "city": "Zgierz",
+    "windyId": "1621006333"
+  },
+  {
+    "slug": "chojnice-east-charzykowy",
+    "url": "https://wideokamery.pl/kamery/chojnice-east-charzykowy/",
+    "lat": 53.73686,
+    "lng": 17.50863,
+    "name": "Chojnice: Charzykowy",
+    "city": "Chojnice",
+    "windyId": "1733317818"
+  },
+  {
+    "slug": "wankowa",
+    "url": "https://wideokamery.pl/kamery/wankowa/",
+    "lat": 49.4985,
+    "lng": 22.46828,
+    "name": "Wańkowa",
+    "city": "Wańkowa",
+    "windyId": "1641906363"
+  },
+  {
+    "slug": "lysa-gora",
+    "url": "https://wideokamery.pl/kamery/lysa-gora/",
+    "lat": 49.58098,
+    "lng": 21.58649,
+    "name": "Lysa Gora",
+    "city": "Lysa Gora",
+    "windyId": "1668953843"
+  },
+  {
+    "slug": "konin-south",
+    "url": "https://wideokamery.pl/kamery/konin-south/",
+    "lat": 52.21225,
+    "lng": 18.25511,
+    "name": "Konin",
+    "city": "Konin",
+    "windyId": "1742119017"
+  },
+  {
+    "slug": "zabno",
+    "url": "https://wideokamery.pl/kamery/zabno/",
+    "lat": 50.13333,
+    "lng": 20.88583,
+    "name": "Żabno",
+    "city": "Żabno",
+    "windyId": "1793868336"
+  },
+  {
+    "slug": "lodz-widzew-rondo-sybirakow",
+    "url": "https://wideokamery.pl/kamery/lodz-widzew-rondo-sybirakow/",
+    "lat": 51.75233,
+    "lng": 19.53149,
+    "name": "Łódź: Widzew: Rondo Sybiraków",
+    "city": "Łódź",
+    "windyId": "1621006317"
+  },
+  {
+    "slug": "lodz-komorniki-rzgowska-kurczaki",
+    "url": "https://wideokamery.pl/kamery/lodz-komorniki-rzgowska-kurczaki/",
+    "lat": 51.71818,
+    "lng": 19.4865,
+    "name": "Łódź: Komorniki: Rzgowska - Kurczaki",
+    "city": "Łódź",
+    "windyId": "1663342212"
+  },
+  {
+    "slug": "warsaw-south-east-warsaw-old-town",
+    "url": "https://wideokamery.pl/kamery/warsaw-south-east-warsaw-old-town/",
+    "lat": 52.25028,
+    "lng": 21.01139,
+    "name": "Warszawa: Stare Miasto",
+    "city": "Warszawa",
+    "windyId": "1793876410"
+  },
+  {
+    "slug": "debowiec-south-east-poland",
+    "url": "https://wideokamery.pl/kamery/debowiec-south-east-poland/",
+    "lat": 49.67907,
+    "lng": 21.47405,
+    "name": "Dębowiec",
+    "city": "Dębowiec",
+    "windyId": "1566851722"
+  },
+  {
+    "slug": "zakliczyn-west",
+    "url": "https://wideokamery.pl/kamery/zakliczyn-west/",
+    "lat": 49.85653,
+    "lng": 20.80916,
+    "name": "Zakliczyn",
+    "city": "Zakliczyn",
+    "windyId": "1659374119"
+  },
+  {
+    "slug": "strzegowa",
+    "url": "https://wideokamery.pl/kamery/strzegowa/",
+    "lat": 50.42408,
+    "lng": 19.70518,
+    "name": "Strzegowa",
+    "city": "Strzegowa",
+    "windyId": "1793873707"
+  },
+  {
+    "slug": "gdynia-skwer-kosciuszki",
+    "url": "https://wideokamery.pl/kamery/gdynia-skwer-kosciuszki/",
+    "lat": 54.51889,
+    "lng": 18.53188,
+    "name": "Gdynia: Skwer Kościuszki",
+    "city": "Gdynia",
+    "windyId": "1553339353"
+  },
+  {
+    "slug": "lipnica-murowana-rynek-w-lipnicy-murowanej-na-zywo",
+    "url": "https://wideokamery.pl/kamery/lipnica-murowana-rynek-w-lipnicy-murowanej-na-zywo/",
+    "lat": 49.85886,
+    "lng": 20.52726,
+    "name": "Lipnica Murowana: Rynek w Lipnicy Murowa...",
+    "city": "Lipnica Murowana",
+    "windyId": "1668168462"
+  },
+  {
+    "slug": "raciborz-east",
+    "url": "https://wideokamery.pl/kamery/raciborz-east/",
+    "lat": 50.09005,
+    "lng": 18.22491,
+    "name": "Racibórz",
+    "city": "Racibórz",
+    "windyId": "1691957895"
+  },
+  {
+    "slug": "ostrowiec-swietokrzyski",
+    "url": "https://wideokamery.pl/kamery/ostrowiec-swietokrzyski/",
+    "lat": 50.94038,
+    "lng": 21.38998,
+    "name": "Ostrowiec Świętokrzyski",
+    "city": "Ostrowiec Świętokrzyski",
+    "windyId": "1793886358"
+  },
+  {
+    "slug": "turbia",
+    "url": "https://wideokamery.pl/kamery/turbia/",
+    "lat": 50.62473,
+    "lng": 21.99731,
+    "name": "Turbia",
+    "city": "Turbia",
+    "windyId": "1693124031"
+  },
+  {
+    "slug": "gniew-wojewodztwo-pomorskie-rzeczpospolita-polska",
+    "url": "https://wideokamery.pl/kamery/gniew-wojewodztwo-pomorskie-rzeczpospolita-polska/",
+    "lat": 53.83602,
+    "lng": 18.8231,
+    "name": "Gniew",
+    "city": "Gniew",
+    "windyId": "1530806685"
+  },
+  {
+    "slug": "zakopane-north-west",
+    "url": "https://wideokamery.pl/kamery/zakopane-north-west/",
+    "lat": 49.28133,
+    "lng": 19.96555,
+    "name": "Zakopane",
+    "city": "Zakopane",
+    "windyId": "1793891276"
+  },
+  {
+    "slug": "krynica-zdroj",
+    "url": "https://wideokamery.pl/kamery/krynica-zdroj/",
+    "lat": 49.41778,
+    "lng": 20.95667,
+    "name": "Krynica-Zdrój",
+    "city": "Krynica-Zdrój",
+    "windyId": "1761975583"
+  },
+  {
+    "slug": "klobuck",
+    "url": "https://wideokamery.pl/kamery/klobuck/",
+    "lat": 50.90248,
+    "lng": 18.93713,
+    "name": "Kłobuck",
+    "city": "Kłobuck",
+    "windyId": "1748263271"
+  },
+  {
+    "slug": "szczecinek-jezioro-trzesiecko",
+    "url": "https://wideokamery.pl/kamery/szczecinek-jezioro-trzesiecko/",
+    "lat": 53.70596,
+    "lng": 16.69272,
+    "name": "Szczecinek: Jezioro Trzesiecko",
+    "city": "Szczecinek",
+    "windyId": "1721688419"
+  },
+  {
+    "slug": "skolyszyn-north-west",
+    "url": "https://wideokamery.pl/kamery/skolyszyn-north-west/",
+    "lat": 49.74968,
+    "lng": 21.33726,
+    "name": "Skołyszyn",
+    "city": "Skołyszyn",
+    "windyId": "1681560986"
+  },
+  {
+    "slug": "lubcza",
+    "url": "https://wideokamery.pl/kamery/lubcza/",
+    "lat": 49.90659,
+    "lng": 21.25407,
+    "name": "Lubcza",
+    "city": "Lubcza",
+    "windyId": "1694629714"
+  },
+  {
+    "slug": "haczow",
+    "url": "https://wideokamery.pl/kamery/haczow/",
+    "lat": 49.65306,
+    "lng": 21.92139,
+    "name": "Haczów",
+    "city": "Haczów",
+    "windyId": "1761524143"
+  },
+  {
+    "slug": "kalnica-east",
+    "url": "https://wideokamery.pl/kamery/kalnica-east/",
+    "lat": 49.1923,
+    "lng": 22.40818,
+    "name": "Kalnica",
+    "city": "Kalnica",
+    "windyId": "1736439107"
+  },
+  {
+    "slug": "bielsko-biala-south-plywalnia-panorama",
+    "url": "https://wideokamery.pl/kamery/bielsko-biala-south-plywalnia-panorama/",
+    "lat": 49.81935,
+    "lng": 19.02918,
+    "name": "Bielsko-Biała: Pływalnia Panorama",
+    "city": "Bielsko-Biała",
+    "windyId": "1754851364"
+  },
+  {
+    "slug": "debno",
+    "url": "https://wideokamery.pl/kamery/debno/",
+    "lat": 52.73655,
+    "lng": 14.6955,
+    "name": "Dębno",
+    "city": "Dębno",
+    "windyId": "1723903583"
+  },
+  {
+    "slug": "zakliczyn-north",
+    "url": "https://wideokamery.pl/kamery/zakliczyn-north/",
+    "lat": 49.85576,
+    "lng": 20.80854,
+    "name": "Zakliczyn",
+    "city": "Zakliczyn",
+    "windyId": "1659883226"
+  },
+  {
+    "slug": "warsaw-pge-narodowy",
+    "url": "https://wideokamery.pl/kamery/warsaw-pge-narodowy/",
+    "lat": 52.2375,
+    "lng": 21.03306,
+    "name": "Warszawa: PGE Narodowy",
+    "city": "Warszawa",
+    "windyId": "1793876413"
+  },
+  {
+    "slug": "kalnica-south",
+    "url": "https://wideokamery.pl/kamery/kalnica-south/",
+    "lat": 49.19703,
+    "lng": 22.41232,
+    "name": "Kalnica",
+    "city": "Kalnica",
+    "windyId": "1736439255"
+  },
+  {
+    "slug": "smerek-north-east-panskiemisie-caloroczne-domki-w-bieszczadach",
+    "url": "https://wideokamery.pl/kamery/smerek-north-east-panskiemisie-caloroczne-domki-w-bieszczadach/",
+    "lat": 49.16994,
+    "lng": 22.42299,
+    "name": "Smerek: Panskiemisie Całoroczne Domki w ...",
+    "city": "Smerek",
+    "windyId": "1749568199"
+  },
+  {
+    "slug": "polomia-south-west",
+    "url": "https://wideokamery.pl/kamery/polomia-south-west/",
+    "lat": 49.87866,
+    "lng": 21.86124,
+    "name": "Połomia",
+    "city": "Połomia",
+    "windyId": "1704466867"
+  },
+  {
+    "slug": "elk",
+    "url": "https://wideokamery.pl/kamery/elk/",
+    "lat": 53.80811,
+    "lng": 22.35663,
+    "name": "Ełk",
+    "city": "Ełk",
+    "windyId": "1748346066"
+  },
+  {
+    "slug": "radomsko-plac-3-maja",
+    "url": "https://wideokamery.pl/kamery/radomsko-plac-3-maja/",
+    "lat": 51.06748,
+    "lng": 19.44461,
+    "name": "Radomsko: Plac 3 Maja",
+    "city": "Radomsko",
+    "windyId": "1736110166"
+  },
+  {
+    "slug": "olsztyn",
+    "url": "https://wideokamery.pl/kamery/olsztyn/",
+    "lat": 53.77855,
+    "lng": 20.48029,
+    "name": "Olsztyn",
+    "city": "Olsztyn",
+    "windyId": "1793891256"
+  },
+  {
+    "slug": "lodz-widzew-pilsudskiego-niciarniana-wschod",
+    "url": "https://wideokamery.pl/kamery/lodz-widzew-pilsudskiego-niciarniana-wschod/",
+    "lat": 51.76375,
+    "lng": 19.50779,
+    "name": "Łódź: Widzew: Piłsudskiego - Niciarniana...",
+    "city": "Łódź",
+    "windyId": "1631287813"
+  },
+  {
+    "slug": "miejsce-piastowe-north",
+    "url": "https://wideokamery.pl/kamery/miejsce-piastowe-north/",
+    "lat": 49.6357,
+    "lng": 21.784,
+    "name": "Miejsce Piastowe",
+    "city": "Miejsce Piastowe",
+    "windyId": "1732182382"
+  },
+  {
+    "slug": "jacnia-teznia-solankowa-w-jacni",
+    "url": "https://wideokamery.pl/kamery/jacnia-teznia-solankowa-w-jacni/",
+    "lat": 50.57889,
+    "lng": 23.185,
+    "name": "Jacnia: Tężnia solankowa w Jacni",
+    "city": "Jacnia",
+    "windyId": "1761613631"
+  },
+  {
+    "slug": "gliczarow-gorny",
+    "url": "https://wideokamery.pl/kamery/gliczarow-gorny/",
+    "lat": 49.34361,
+    "lng": 20.06528,
+    "name": "Gliczarow Gorny",
+    "city": "Gliczarow Gorny",
+    "windyId": "1761572568"
+  },
+  {
+    "slug": "rabka-zdroj",
+    "url": "https://wideokamery.pl/kamery/rabka-zdroj/",
+    "lat": 49.60563,
+    "lng": 19.96301,
+    "name": "Rabka-Zdrój",
+    "city": "Rabka-Zdrój",
+    "windyId": "1760220173"
+  },
+  {
+    "slug": "warszkowo-gniewino",
+    "url": "https://wideokamery.pl/kamery/warszkowo-gniewino/",
+    "lat": 54.71787,
+    "lng": 18.05219,
+    "name": "Warszkowo: Gniewino",
+    "city": "Warszkowo",
+    "windyId": "1734277279"
+  },
+  {
+    "slug": "rosciszow-wielka-sowa",
+    "url": "https://wideokamery.pl/kamery/rosciszow-wielka-sowa/",
+    "lat": 50.68032,
+    "lng": 16.48582,
+    "name": "Rosciszow: Wielka Sowa",
+    "city": "Rosciszow",
+    "windyId": "1760294558"
+  },
+  {
+    "slug": "stegna",
+    "url": "https://wideokamery.pl/kamery/stegna/",
+    "lat": 54.32667,
+    "lng": 19.11944,
+    "name": "Stegna",
+    "city": "Stegna",
+    "windyId": "1762565334"
+  },
+  {
+    "slug": "glubczyce-north-west",
+    "url": "https://wideokamery.pl/kamery/glubczyce-north-west/",
+    "lat": 50.20019,
+    "lng": 17.83023,
+    "name": "Głubczyce",
+    "city": "Głubczyce",
+    "windyId": "1721129113"
+  },
+  {
+    "slug": "istebna",
+    "url": "https://wideokamery.pl/kamery/istebna/",
+    "lat": 49.56778,
+    "lng": 18.90528,
+    "name": "Istebna",
+    "city": "Istebna",
+    "windyId": "1761582047"
+  },
+  {
+    "slug": "zalewo-fontanna-na-rynku-na-zywo",
+    "url": "https://wideokamery.pl/kamery/zalewo-fontanna-na-rynku-na-zywo/",
+    "lat": 53.84599,
+    "lng": 19.60605,
+    "name": "Zalewo: Fontanna na Rynku",
+    "city": "Zalewo",
+    "windyId": "1793886333"
+  },
+  {
+    "slug": "warsaw",
+    "url": "https://wideokamery.pl/kamery/warsaw/",
+    "lat": 52.19056,
+    "lng": 21.08944,
+    "name": "Warszawa: Warsaw",
+    "city": "Warszawa",
+    "windyId": "1793876402"
+  },
+  {
+    "slug": "suche",
+    "url": "https://wideokamery.pl/kamery/suche/",
+    "lat": 49.32395,
+    "lng": 19.971,
+    "name": "Suche",
+    "city": "Suche",
+    "windyId": "1793876365"
+  },
+  {
+    "slug": "elk-wojska-polskiego",
+    "url": "https://wideokamery.pl/kamery/elk-wojska-polskiego/",
+    "lat": 53.82159,
+    "lng": 22.34645,
+    "name": "Ełk: Wojska Polskiego",
+    "city": "Ełk",
+    "windyId": "1745310872"
+  },
+  {
+    "slug": "lodz-srodmiescie-doubletree-by-hilton-zachod",
+    "url": "https://wideokamery.pl/kamery/lodz-srodmiescie-doubletree-by-hilton-zachod/",
+    "lat": 51.75735,
+    "lng": 19.44328,
+    "name": "Łódź: Srodmiescie: DoubleTree by Hilton ...",
+    "city": "Łódź",
+    "windyId": "1640359810"
+  },
+  {
+    "slug": "brenna",
+    "url": "https://wideokamery.pl/kamery/brenna/",
+    "lat": 49.72583,
+    "lng": 18.90306,
+    "name": "Brenna",
+    "city": "Brenna",
+    "windyId": "1761522993"
+  },
+  {
+    "slug": "krakow-south-west-florianska",
+    "url": "https://wideokamery.pl/kamery/krakow-south-west-florianska/",
+    "lat": 50.06363,
+    "lng": 19.94043,
+    "name": "Kraków: Floriańska",
+    "city": "Kraków",
+    "windyId": "1793891263"
+  },
+  {
+    "slug": "rybnik-south-west",
+    "url": "https://wideokamery.pl/kamery/rybnik-south-west/",
+    "lat": 50.07369,
+    "lng": 18.62768,
+    "name": "Rybnik",
+    "city": "Rybnik",
+    "windyId": "1750539118"
+  },
+  {
+    "slug": "lodz-stare-miasto-zachodnia-palac-poznanskiego",
+    "url": "https://wideokamery.pl/kamery/lodz-stare-miasto-zachodnia-palac-poznanskiego/",
+    "lat": 51.78189,
+    "lng": 19.45079,
+    "name": "Łódź: Stare Miasto: Zachodnia - Pałac Po...",
+    "city": "Łódź",
+    "windyId": "1693582297"
+  },
+  {
+    "slug": "gorlice-east-wojewodztwo-malopolskie-rzeczpospolita-polska-korty-tenisowe",
+    "url": "https://wideokamery.pl/kamery/gorlice-east-wojewodztwo-malopolskie-rzeczpospolita-polska-korty-tenisowe/",
+    "lat": 49.67224,
+    "lng": 21.16944,
+    "name": "Gorlice: Korty tenisowe",
+    "city": "Gorlice",
+    "windyId": "1491305623"
+  },
+  {
+    "slug": "karpacz-stacja-narciarska-pod-wangiem",
+    "url": "https://wideokamery.pl/kamery/karpacz-stacja-narciarska-pod-wangiem/",
+    "lat": 50.77833,
+    "lng": 15.73333,
+    "name": "Karpacz: Stacja Narciarska POD WANGIEM",
+    "city": "Karpacz",
+    "windyId": "1761856134"
+  },
+  {
+    "slug": "gromnik",
+    "url": "https://wideokamery.pl/kamery/gromnik/",
+    "lat": 49.83813,
+    "lng": 20.96138,
+    "name": "Gromnik",
+    "city": "Gromnik",
+    "windyId": "1738860907"
+  },
+  {
+    "slug": "hel-beach",
+    "url": "https://wideokamery.pl/kamery/hel-beach/",
+    "lat": 54.60559,
+    "lng": 18.80099,
+    "name": "Hel: Plaża",
+    "city": "Hel",
+    "windyId": "1497751860"
+  },
+  {
+    "slug": "galewice-lodzkie-rzeczpospolita-polska-urzad-gminy",
+    "url": "https://wideokamery.pl/kamery/galewice-lodzkie-rzeczpospolita-polska-urzad-gminy/",
+    "lat": 51.34471,
+    "lng": 18.25756,
+    "name": "Galewice: Urząd Gminy",
+    "city": "Galewice",
+    "windyId": "1479024625"
+  },
+  {
+    "slug": "gniew-wojewodztwo-pomorskie-rzeczpospolita-polska-zamek",
+    "url": "https://wideokamery.pl/kamery/gniew-wojewodztwo-pomorskie-rzeczpospolita-polska-zamek/",
+    "lat": 53.83602,
+    "lng": 18.8231,
+    "name": "Gniew: Zamek",
+    "city": "Gniew",
+    "windyId": "1564312626"
+  },
+  {
+    "slug": "lodz-polesie-zielona-legionow",
+    "url": "https://wideokamery.pl/kamery/lodz-polesie-zielona-legionow/",
+    "lat": 51.77005,
+    "lng": 19.42917,
+    "name": "Łódź: Polesie: Zielona - Legionów",
+    "city": "Łódź",
+    "windyId": "1663947014"
+  },
+  {
+    "slug": "kamiensk-west",
+    "url": "https://wideokamery.pl/kamery/kamiensk-west/",
+    "lat": 51.20417,
+    "lng": 19.49707,
+    "name": "Kamieńsk",
+    "city": "Kamieńsk",
+    "windyId": "1748436268"
+  },
+  {
+    "slug": "grodzisk-mazowiecki",
+    "url": "https://wideokamery.pl/kamery/grodzisk-mazowiecki/",
+    "lat": 52.10469,
+    "lng": 20.62237,
+    "name": "Grodzisk Mazowiecki",
+    "city": "Grodzisk Mazowiecki",
+    "windyId": "1757414645"
+  },
+  {
+    "slug": "chelm-slaski",
+    "url": "https://wideokamery.pl/kamery/chelm-slaski/",
+    "lat": 50.12613,
+    "lng": 19.21964,
+    "name": "Chełm Śląski",
+    "city": "Chełm Śląski",
+    "windyId": "1756215621"
+  },
+  {
+    "slug": "krakow-stradom-bazylika-sw-michala-archaniola-i-sw-stanislawa-w-krakowie",
+    "url": "https://wideokamery.pl/kamery/krakow-stradom-bazylika-sw-michala-archaniola-i-sw-stanislawa-w-krakowie/",
+    "lat": 50.0485,
+    "lng": 19.93757,
+    "name": "Kraków: Stradom: Bazylika św. Michała Ar...",
+    "city": "Kraków",
+    "windyId": "1668172276"
+  },
+  {
+    "slug": "lubin",
+    "url": "https://wideokamery.pl/kamery/lubin/",
+    "lat": 51.40525,
+    "lng": 16.199,
+    "name": "Lubin",
+    "city": "Lubin",
+    "windyId": "1753441131"
+  },
+  {
+    "slug": "glubczyce-south",
+    "url": "https://wideokamery.pl/kamery/glubczyce-south/",
+    "lat": 50.20016,
+    "lng": 17.83034,
+    "name": "Głubczyce",
+    "city": "Głubczyce",
+    "windyId": "1721128413"
+  },
+  {
+    "slug": "gdansk-stare-miasto-kosciol-pw-sw-jozefa-w-gdansku",
+    "url": "https://wideokamery.pl/kamery/gdansk-stare-miasto-kosciol-pw-sw-jozefa-w-gdansku/",
+    "lat": 54.35415,
+    "lng": 18.64717,
+    "name": "Gdańsk: Stare Miasto: Kościół pw. Św. Jó...",
+    "city": "Gdańsk",
+    "windyId": "1668169763"
+  },
+  {
+    "slug": "inowroclaw",
+    "url": "https://wideokamery.pl/kamery/inowroclaw/",
+    "lat": 52.77056,
+    "lng": 18.25917,
+    "name": "Inowrocław",
+    "city": "Inowrocław",
+    "windyId": "1761581804"
+  },
+  {
+    "slug": "czarnorzeki",
+    "url": "https://wideokamery.pl/kamery/czarnorzeki/",
+    "lat": 49.74667,
+    "lng": 21.81917,
+    "name": "Czarnorzeki",
+    "city": "Czarnorzeki",
+    "windyId": "1761563014"
+  },
+  {
+    "slug": "bielawa",
+    "url": "https://wideokamery.pl/kamery/bielawa/",
+    "lat": 50.68278,
+    "lng": 16.59833,
+    "name": "Bielawa",
+    "city": "Bielawa",
+    "windyId": "1761520347"
+  },
+  {
+    "slug": "czestochowa",
+    "url": "https://wideokamery.pl/kamery/czestochowa/",
+    "lat": 50.81889,
+    "lng": 19.12222,
+    "name": "Częstochowa",
+    "city": "Częstochowa",
+    "windyId": "1761563955"
+  },
+  {
+    "slug": "swidnik-plac-konstytucji-3-maja-w-swidniku-na-zywo",
+    "url": "https://wideokamery.pl/kamery/swidnik-plac-konstytucji-3-maja-w-swidniku-na-zywo/",
+    "lat": 51.21912,
+    "lng": 22.70105,
+    "name": "Świdnik: Plac Konstytucji 3 Maja w Świdn...",
+    "city": "Świdnik",
+    "windyId": "1668169063"
+  },
+  {
+    "slug": "gdansk-stare-miasto-kaplica-wieczystej-adoracji-w-kosciele-sw-jozefa-w-gdansku",
+    "url": "https://wideokamery.pl/kamery/gdansk-stare-miasto-kaplica-wieczystej-adoracji-w-kosciele-sw-jozefa-w-gdansku/",
+    "lat": 54.35429,
+    "lng": 18.64734,
+    "name": "Gdańsk: Stare Miasto: Kaplica Wieczystej...",
+    "city": "Gdańsk",
+    "windyId": "1668169790"
+  },
+  {
+    "slug": "kunow-wojewodztwo-swietokrzyskie-rzeczpospolita-polska-pl-boisko-orlik-azymut-wwn",
+    "url": "https://wideokamery.pl/kamery/kunow-wojewodztwo-swietokrzyskie-rzeczpospolita-polska-pl-boisko-orlik-azymut-wwn/",
+    "lat": 50.95831,
+    "lng": 21.27904,
+    "name": "Kunów: Rzeczpospolita Polska - pl - bois...",
+    "city": "Kunów",
+    "windyId": "1444247367"
+  },
+  {
+    "slug": "latoszyn",
+    "url": "https://wideokamery.pl/kamery/latoszyn/",
+    "lat": 50.01889,
+    "lng": 21.36972,
+    "name": "Latoszyn",
+    "city": "Latoszyn",
+    "windyId": "1761565051"
+  },
+  {
+    "slug": "elblag",
+    "url": "https://wideokamery.pl/kamery/elblag/",
+    "lat": 54.16606,
+    "lng": 19.42236,
+    "name": "Elbląg",
+    "city": "Elbląg",
+    "windyId": "1761569837"
+  },
+  {
+    "slug": "wojkowice",
+    "url": "https://wideokamery.pl/kamery/wojkowice/",
+    "lat": 50.38056,
+    "lng": 18.99806,
+    "name": "Wojkowice",
+    "city": "Wojkowice",
+    "windyId": "1761521752"
+  },
+  {
+    "slug": "jarocin",
+    "url": "https://wideokamery.pl/kamery/jarocin/",
+    "lat": 51.96194,
+    "lng": 17.48389,
+    "name": "Jarocin",
+    "city": "Jarocin",
+    "windyId": "1761613755"
+  },
+  {
+    "slug": "iwonicz-zdroj-north",
+    "url": "https://wideokamery.pl/kamery/iwonicz-zdroj-north/",
+    "lat": 49.56412,
+    "lng": 21.79902,
+    "name": "Iwonicz-Zdrój",
+    "city": "Iwonicz-Zdrój",
+    "windyId": "1735823421"
+  },
+  {
+    "slug": "czaszyn-south-west-klub-sportowy-lks-czaszyn",
+    "url": "https://wideokamery.pl/kamery/czaszyn-south-west-klub-sportowy-lks-czaszyn/",
+    "lat": 49.45777,
+    "lng": 22.22365,
+    "name": "Czaszyn: Klub Sportowy LKS Czaszyn",
+    "city": "Czaszyn",
+    "windyId": "1708630188"
+  },
+  {
+    "slug": "zalewo-ekomarina-na-zywo",
+    "url": "https://wideokamery.pl/kamery/zalewo-ekomarina-na-zywo/",
+    "lat": 53.84673,
+    "lng": 19.59738,
+    "name": "Zalewo: Ekomarina",
+    "city": "Zalewo",
+    "windyId": "1793886334"
+  },
+  {
+    "slug": "katowice-north-spodek",
+    "url": "https://wideokamery.pl/kamery/katowice-north-spodek/",
+    "lat": 50.26226,
+    "lng": 19.02364,
+    "name": "Katowice: Spodek",
+    "city": "Katowice",
+    "windyId": "1793891279"
+  },
+  {
+    "slug": "darlowo",
+    "url": "https://wideokamery.pl/kamery/darlowo/",
+    "lat": 54.44417,
+    "lng": 16.39139,
+    "name": "Darłowo",
+    "city": "Darłowo",
+    "windyId": "1761564241"
+  },
+  {
+    "slug": "kombornia-east",
+    "url": "https://wideokamery.pl/kamery/kombornia-east/",
+    "lat": 49.73403,
+    "lng": 21.85511,
+    "name": "Kombornia",
+    "city": "Kombornia",
+    "windyId": "1735824212"
+  },
+  {
+    "slug": "bystrzyca-klodzka",
+    "url": "https://wideokamery.pl/kamery/bystrzyca-klodzka/",
+    "lat": 50.2975,
+    "lng": 16.65028,
+    "name": "Bystrzyca Kłodzka",
+    "city": "Bystrzyca Kłodzka",
+    "windyId": "1761529096"
+  },
+  {
+    "slug": "czaszyn-north-west-klub-sportowy-lks-czaszyn",
+    "url": "https://wideokamery.pl/kamery/czaszyn-north-west-klub-sportowy-lks-czaszyn/",
+    "lat": 49.45788,
+    "lng": 22.22397,
+    "name": "Czaszyn: Klub Sportowy LKS Czaszyn",
+    "city": "Czaszyn",
+    "windyId": "1708630329"
+  },
+  {
+    "slug": "drohiczyn",
+    "url": "https://wideokamery.pl/kamery/drohiczyn/",
+    "lat": 52.39417,
+    "lng": 22.65833,
+    "name": "Drohiczyn",
+    "city": "Drohiczyn",
+    "windyId": "1761568962"
+  },
+  {
+    "slug": "grudziadz",
+    "url": "https://wideokamery.pl/kamery/grudziadz/",
+    "lat": 53.52111,
+    "lng": 18.84778,
+    "name": "Grudziądz",
+    "city": "Grudziądz",
+    "windyId": "1761581128"
+  },
+  {
+    "slug": "gorzow-wielkopolski",
+    "url": "https://wideokamery.pl/kamery/gorzow-wielkopolski/",
+    "lat": 52.72778,
+    "lng": 15.23556,
+    "name": "Gorzów Wielkopolski",
+    "city": "Gorzów Wielkopolski",
+    "windyId": "1761580827"
+  },
+  {
+    "slug": "cisiec",
+    "url": "https://wideokamery.pl/kamery/cisiec/",
+    "lat": 49.58556,
+    "lng": 19.10306,
+    "name": "Cisiec",
+    "city": "Cisiec",
+    "windyId": "1793868337"
+  },
+  {
+    "slug": "molowiste-west-sirvis-apartments-house-on-the-lake",
+    "url": "https://wideokamery.pl/kamery/molowiste-west-sirvis-apartments-house-on-the-lake/",
+    "lat": 53.9334,
+    "lng": 23.21571,
+    "name": "Molowiste: SIRVIS Apartments - house on ...",
+    "city": "Molowiste",
+    "windyId": "1762076930"
+  },
+  {
+    "slug": "krajno-pierwsze",
+    "url": "https://wideokamery.pl/kamery/krajno-pierwsze/",
+    "lat": 50.89944,
+    "lng": 20.85806,
+    "name": "Krajno Pierwsze",
+    "city": "Krajno Pierwsze",
+    "windyId": "1761859637"
+  },
+  {
+    "slug": "swieradow-zdroj-skiandsun-coaster-caloroczny-tor-saneczkowy",
+    "url": "https://wideokamery.pl/kamery/swieradow-zdroj-skiandsun-coaster-caloroczny-tor-saneczkowy/",
+    "lat": 50.91011,
+    "lng": 15.3197,
+    "name": "Świeradów-Zdrój: Ski&Sun Coaster Całoroc...",
+    "city": "Świeradów-Zdrój",
+    "windyId": "1793889348"
+  },
+  {
+    "slug": "rajgrod-jezioro-rajgrodzkie-na-zywo",
+    "url": "https://wideokamery.pl/kamery/rajgrod-jezioro-rajgrodzkie-na-zywo/",
+    "lat": 53.73027,
+    "lng": 22.68303,
+    "name": "Rajgród: Jezioro Rajgrodzkie",
+    "city": "Rajgród",
+    "windyId": "1668170308"
+  },
+  {
+    "slug": "karpacz-east",
+    "url": "https://wideokamery.pl/kamery/karpacz-east/",
+    "lat": 50.77508,
+    "lng": 15.75495,
+    "name": "Karpacz",
+    "city": "Karpacz",
+    "windyId": "1793891267"
+  },
+  {
+    "slug": "bolkow-bolkow-castle",
+    "url": "https://wideokamery.pl/kamery/bolkow-bolkow-castle/",
+    "lat": 50.92194,
+    "lng": 16.10111,
+    "name": "Bolków: Zamek",
+    "city": "Bolków",
+    "windyId": "1761522583"
+  },
+  {
+    "slug": "jaworzno",
+    "url": "https://wideokamery.pl/kamery/jaworzno/",
+    "lat": 50.2275,
+    "lng": 19.18472,
+    "name": "Jaworzno",
+    "city": "Jaworzno",
+    "windyId": "1761615222"
+  },
+  {
+    "slug": "kamienna-gora",
+    "url": "https://wideokamery.pl/kamery/kamienna-gora/",
+    "lat": 50.7825,
+    "lng": 16.03083,
+    "name": "Kamienna Góra",
+    "city": "Kamienna Góra",
+    "windyId": "1761854996"
+  },
+  {
+    "slug": "gdynia-south-east-kosciuszko-square",
+    "url": "https://wideokamery.pl/kamery/gdynia-south-east-kosciuszko-square/",
+    "lat": 54.52069,
+    "lng": 18.54634,
+    "name": "Gdynia: Kościuszko Square",
+    "city": "Gdynia",
+    "windyId": "1793891278"
+  },
+  {
+    "slug": "trzebiatow",
+    "url": "https://wideokamery.pl/kamery/trzebiatow/",
+    "lat": 54.08166,
+    "lng": 15.01007,
+    "name": "Trzebiatów",
+    "city": "Trzebiatów",
+    "windyId": "1761816500"
+  },
+  {
+    "slug": "bialystok-aeroklub-bialystok-krywlany",
+    "url": "https://wideokamery.pl/kamery/bialystok-aeroklub-bialystok-krywlany/",
+    "lat": 53.10444,
+    "lng": 23.16475,
+    "name": "Białystok: Aeroklub Bialystok Krywlany",
+    "city": "Białystok",
+    "windyId": "1762417187"
+  },
+  {
+    "slug": "myslenice-west-market-in-myslenice",
+    "url": "https://wideokamery.pl/kamery/myslenice-west-market-in-myslenice/",
+    "lat": 49.83489,
+    "lng": 19.939,
+    "name": "Myślenice: Market in Myślenice",
+    "city": "Myślenice",
+    "windyId": "1793889408"
+  },
+  {
+    "slug": "chlapowo",
+    "url": "https://wideokamery.pl/kamery/chlapowo/",
+    "lat": 54.80806,
+    "lng": 18.37917,
+    "name": "Chłapowo",
+    "city": "Chłapowo",
+    "windyId": "1761530045"
+  },
+  {
+    "slug": "jastrzebia-gora",
+    "url": "https://wideokamery.pl/kamery/jastrzebia-gora/",
+    "lat": 54.835,
+    "lng": 18.30722,
+    "name": "Jastrzębia Góra",
+    "city": "Jastrzębia Góra",
+    "windyId": "1761614853"
+  },
+  {
+    "slug": "karpacz-west",
+    "url": "https://wideokamery.pl/kamery/karpacz-west/",
+    "lat": 50.77504,
+    "lng": 15.75524,
+    "name": "Karpacz",
+    "city": "Karpacz",
+    "windyId": "1793891266"
+  },
+  {
+    "slug": "boguszow-gorce",
+    "url": "https://wideokamery.pl/kamery/boguszow-gorce/",
+    "lat": 50.72444,
+    "lng": 16.21861,
+    "name": "Boguszów-Gorce",
+    "city": "Boguszów-Gorce",
+    "windyId": "1761521919"
+  },
+  {
+    "slug": "wejherowo",
+    "url": "https://wideokamery.pl/kamery/wejherowo/",
+    "lat": 54.60207,
+    "lng": 18.23923,
+    "name": "Wejherowo",
+    "city": "Wejherowo",
+    "windyId": "1793891269"
+  },
+  {
+    "slug": "rybnik-zabytkowa-kopalnia-ignacy-w-rybniku",
+    "url": "https://wideokamery.pl/kamery/rybnik-zabytkowa-kopalnia-ignacy-w-rybniku/",
+    "lat": 50.06269,
+    "lng": 18.4673,
+    "name": "Rybnik: Zabytkowa Kopalnia Ignacy w Rybn...",
+    "city": "Rybnik",
+    "windyId": "1760039503"
+  },
+  {
+    "slug": "krempna",
+    "url": "https://wideokamery.pl/kamery/krempna/",
+    "lat": 49.51306,
+    "lng": 21.49639,
+    "name": "Krempna",
+    "city": "Krempna",
+    "windyId": "1761569162"
+  },
+  {
+    "slug": "gabin",
+    "url": "https://wideokamery.pl/kamery/gabin/",
+    "lat": 52.39778,
+    "lng": 19.73528,
+    "name": "Gąbin",
+    "city": "Gąbin",
+    "windyId": "1761570982"
+  },
+  {
+    "slug": "zielona-gora",
+    "url": "https://wideokamery.pl/kamery/zielona-gora/",
+    "lat": 51.94046,
+    "lng": 15.51426,
+    "name": "Zielona Góra",
+    "city": "Zielona Góra",
+    "windyId": "1793892503"
+  },
+  {
+    "slug": "szczecin-gray-ranks-square",
+    "url": "https://wideokamery.pl/kamery/szczecin-gray-ranks-square/",
+    "lat": 53.43336,
+    "lng": 14.54114,
+    "name": "Szczecin: Gray Ranks Square",
+    "city": "Szczecin",
+    "windyId": "1793872849"
+  },
+  {
+    "slug": "jawor",
+    "url": "https://wideokamery.pl/kamery/jawor/",
+    "lat": 51.05028,
+    "lng": 16.19306,
+    "name": "Jawor",
+    "city": "Jawor",
+    "windyId": "1761615022"
+  },
+  {
+    "slug": "brwinow-wake-family",
+    "url": "https://wideokamery.pl/kamery/brwinow-wake-family/",
+    "lat": 52.15336,
+    "lng": 20.70393,
+    "name": "Brwinów: Wake Family",
+    "city": "Brwinów",
+    "windyId": "1668168249"
+  },
+  {
+    "slug": "bochnia",
+    "url": "https://wideokamery.pl/kamery/bochnia/",
+    "lat": 49.96532,
+    "lng": 20.42338,
+    "name": "Bochnia",
+    "city": "Bochnia",
+    "windyId": "1793871705"
+  },
+  {
+    "slug": "bielsko-biala-north-west-ratusz-w-bielsku-bialej",
+    "url": "https://wideokamery.pl/kamery/bielsko-biala-north-west-ratusz-w-bielsku-bialej/",
+    "lat": 49.82105,
+    "lng": 19.05135,
+    "name": "Bielsko-Biała: Ratusz w Bielsku-Białej",
+    "city": "Bielsko-Biała",
+    "windyId": "1793891273"
+  },
+  {
+    "slug": "karpacz-south-west",
+    "url": "https://wideokamery.pl/kamery/karpacz-south-west/",
+    "lat": 50.77723,
+    "lng": 15.756,
+    "name": "Karpacz",
+    "city": "Karpacz",
+    "windyId": "1793891265"
+  },
+  {
+    "slug": "lanckorona-north-west",
+    "url": "https://wideokamery.pl/kamery/lanckorona-north-west/",
+    "lat": 49.84487,
+    "lng": 19.71583,
+    "name": "Lanckorona",
+    "city": "Lanckorona",
+    "windyId": "1793891259"
+  },
+  {
+    "slug": "korfantow",
+    "url": "https://wideokamery.pl/kamery/korfantow/",
+    "lat": 50.48917,
+    "lng": 17.595,
+    "name": "Korfantów",
+    "city": "Korfantów",
+    "windyId": "1761862581"
+  },
+  {
+    "slug": "rybnik",
+    "url": "https://wideokamery.pl/kamery/rybnik/",
+    "lat": 50.13957,
+    "lng": 18.48338,
+    "name": "Rybnik",
+    "city": "Rybnik",
+    "windyId": "1793876480"
+  },
+  {
+    "slug": "gniew",
+    "url": "https://wideokamery.pl/kamery/gniew/",
+    "lat": 53.83472,
+    "lng": 18.83028,
+    "name": "Gniew",
+    "city": "Gniew",
+    "windyId": "1761573659"
+  },
+  {
+    "slug": "sokolowka",
+    "url": "https://wideokamery.pl/kamery/sokolowka/",
+    "lat": 50.65349,
+    "lng": 22.68753,
+    "name": "Sokolowka",
+    "city": "Sokolowka",
+    "windyId": "1761570542"
+  },
+  {
+    "slug": "cieniawa-south-east",
+    "url": "https://wideokamery.pl/kamery/cieniawa-south-east/",
+    "lat": 49.62291,
+    "lng": 20.82612,
+    "name": "Cieniawa",
+    "city": "Cieniawa",
+    "windyId": "1793889347"
+  },
+  {
+    "slug": "jezierce-west-rakowo",
+    "url": "https://wideokamery.pl/kamery/jezierce-west-rakowo/",
+    "lat": 52.4307,
+    "lng": 17.42882,
+    "name": "Jezierce: Rakowo",
+    "city": "Jezierce",
+    "windyId": "1757881873"
+  },
+  {
+    "slug": "wojciechowice",
+    "url": "https://wideokamery.pl/kamery/wojciechowice/",
+    "lat": 50.44472,
+    "lng": 16.69972,
+    "name": "Wojciechowice",
+    "city": "Wojciechowice",
+    "windyId": "1761860379"
+  },
+  {
+    "slug": "oswiecim-rynek-w-oswiecimiu",
+    "url": "https://wideokamery.pl/kamery/oswiecim-rynek-w-oswiecimiu/",
+    "lat": 50.03792,
+    "lng": 19.22089,
+    "name": "Oświęcim: Rynek w Oświęcimiu",
+    "city": "Oświęcim",
+    "windyId": "1793891260"
+  },
+  {
+    "slug": "gorzow-wielkopolski-west-katedra-pw-wniebowziecia-najswietszej-maryi-panny",
+    "url": "https://wideokamery.pl/kamery/gorzow-wielkopolski-west-katedra-pw-wniebowziecia-najswietszej-maryi-panny/",
+    "lat": 52.73116,
+    "lng": 15.2407,
+    "name": "Gorzów Wielkopolski: Katedra p.w. Wniebo...",
+    "city": "Gorzów Wielkopolski",
+    "windyId": "1793891272"
+  },
+  {
+    "slug": "kozubszczyzna-wybieg-dla-bocianow-na-zywo",
+    "url": "https://wideokamery.pl/kamery/kozubszczyzna-wybieg-dla-bocianow-na-zywo/",
+    "lat": 51.2244,
+    "lng": 22.42456,
+    "name": "Kozubszczyzna: Wybieg dla bocianów",
+    "city": "Kozubszczyzna",
+    "windyId": "1668174090"
+  },
+  {
+    "slug": "chojnice",
+    "url": "https://wideokamery.pl/kamery/chojnice/",
+    "lat": 53.69556,
+    "lng": 17.56194,
+    "name": "Chojnice",
+    "city": "Chojnice",
+    "windyId": "1761530795"
+  },
+  {
+    "slug": "czaszyn-south-west",
+    "url": "https://wideokamery.pl/kamery/czaszyn-south-west/",
+    "lat": 49.45947,
+    "lng": 22.22641,
+    "name": "Czaszyn",
+    "city": "Czaszyn",
+    "windyId": "1752747753"
+  },
+  {
+    "slug": "kielce-east-kielce-market-square",
+    "url": "https://wideokamery.pl/kamery/kielce-east-kielce-market-square/",
+    "lat": 50.87161,
+    "lng": 20.63091,
+    "name": "Kielce: Rynek",
+    "city": "Kielce",
+    "windyId": "1793874785"
+  },
+  {
+    "slug": "glogowek",
+    "url": "https://wideokamery.pl/kamery/glogowek/",
+    "lat": 50.35361,
+    "lng": 17.86111,
+    "name": "Głogówek",
+    "city": "Głogówek",
+    "windyId": "1761573124"
+  },
+  {
+    "slug": "krzepice",
+    "url": "https://wideokamery.pl/kamery/krzepice/",
+    "lat": 50.97111,
+    "lng": 18.72417,
+    "name": "Krzepice",
+    "city": "Krzepice",
+    "windyId": "1761975681"
+  },
+  {
+    "slug": "torun-north",
+    "url": "https://wideokamery.pl/kamery/torun-north/",
+    "lat": 53.01016,
+    "lng": 18.60495,
+    "name": "Toruń",
+    "city": "Toruń",
+    "windyId": "1793889350"
+  },
+  {
+    "slug": "bielsko-biala-south-east-plac-wolnosci",
+    "url": "https://wideokamery.pl/kamery/bielsko-biala-south-east-plac-wolnosci/",
+    "lat": 49.82328,
+    "lng": 19.05329,
+    "name": "Bielsko-Biała: plac Wolności",
+    "city": "Bielsko-Biała",
+    "windyId": "1793891268"
+  },
+  {
+    "slug": "emilcin-north-ufo-monument-in-emilcin",
+    "url": "https://wideokamery.pl/kamery/emilcin-north-ufo-monument-in-emilcin/",
+    "lat": 51.13405,
+    "lng": 22.03881,
+    "name": "Emilcin: UFO Monument in Emilcin",
+    "city": "Emilcin",
+    "windyId": "1793891277"
+  },
+  {
+    "slug": "jodlowa",
+    "url": "https://wideokamery.pl/kamery/jodlowa/",
+    "lat": 49.87722,
+    "lng": 21.30583,
+    "name": "Jodłowa",
+    "city": "Jodłowa",
+    "windyId": "1761564882"
+  },
+  {
+    "slug": "kamiensk",
+    "url": "https://wideokamery.pl/kamery/kamiensk/",
+    "lat": 51.20472,
+    "lng": 19.49861,
+    "name": "Kamieńsk",
+    "city": "Kamieńsk",
+    "windyId": "1761855422"
+  },
+  {
+    "slug": "zakopane-south-krupowki",
+    "url": "https://wideokamery.pl/kamery/zakopane-south-krupowki/",
+    "lat": 49.29346,
+    "lng": 19.95532,
+    "name": "Zakopane",
+    "city": "Zakopane",
+    "windyId": "1793891385"
+  },
+  {
+    "slug": "miedzyzdroje-west",
+    "url": "https://wideokamery.pl/kamery/miedzyzdroje-west/",
+    "lat": 53.9333,
+    "lng": 14.44925,
+    "name": "Międzyzdroje",
+    "city": "Międzyzdroje",
+    "windyId": "1793891280"
+  },
+  {
+    "slug": "bielsko-biala-parafia-sw-jana-chrzciciela-komorowice",
+    "url": "https://wideokamery.pl/kamery/bielsko-biala-parafia-sw-jana-chrzciciela-komorowice/",
+    "lat": 49.85415,
+    "lng": 19.0419,
+    "name": "Bielsko-Biała: Parafia Św. Jana Chrzcici...",
+    "city": "Bielsko-Biała",
+    "windyId": "1793886317"
+  },
+  {
+    "slug": "krakow-north-east-rynek-glowny",
+    "url": "https://wideokamery.pl/kamery/krakow-north-east-rynek-glowny/",
+    "lat": 50.06101,
+    "lng": 19.93645,
+    "name": "Kraków: Rynek Główny",
+    "city": "Kraków",
+    "windyId": "1793891377"
+  },
+  {
+    "slug": "lesna-podlaska-transmisja-z-sanktuarium",
+    "url": "https://wideokamery.pl/kamery/lesna-podlaska-transmisja-z-sanktuarium/",
+    "lat": 52.12927,
+    "lng": 23.02618,
+    "name": "Leśna Podlaska: Transmisja z Sanktuarium",
+    "city": "Leśna Podlaska",
+    "windyId": "1793882192"
+  },
+  {
+    "slug": "elk-wieza-widokowa",
+    "url": "https://wideokamery.pl/kamery/elk-wieza-widokowa/",
+    "lat": 53.80818,
+    "lng": 22.35663,
+    "name": "Ełk: Wieża widokowa",
+    "city": "Ełk",
+    "windyId": "1761570166"
+  },
+  {
+    "slug": "krakow-pasieka-przy-ztpo-w-krakowie-na-zywo",
+    "url": "https://wideokamery.pl/kamery/krakow-pasieka-przy-ztpo-w-krakowie-na-zywo/",
+    "lat": 50.05836,
+    "lng": 20.08,
+    "name": "Kraków: Pasieka przy ZTPO w Krakowie",
+    "city": "Kraków",
+    "windyId": "1793886319"
+  },
+  {
+    "slug": "trzebiatow-przystan-rybacka",
+    "url": "https://wideokamery.pl/kamery/trzebiatow-przystan-rybacka/",
+    "lat": 54.08184,
+    "lng": 15.0099,
+    "name": "Trzebiatów: Przystań Rybacka",
+    "city": "Trzebiatów",
+    "windyId": "1762343494"
+  },
+  {
+    "slug": "lebork-plac-pokoju",
+    "url": "https://wideokamery.pl/kamery/lebork-plac-pokoju/",
+    "lat": 54.54405,
+    "lng": 17.75018,
+    "name": "Lębork: Plac Pokoju",
+    "city": "Lębork",
+    "windyId": "1793891378"
+  },
+  {
+    "slug": "lukow-city-system-security-ul-przemyslowa-w-lukowie-na-zywo",
+    "url": "https://wideokamery.pl/kamery/lukow-city-system-security-ul-przemyslowa-w-lukowie-na-zywo/",
+    "lat": 51.9365,
+    "lng": 22.38768,
+    "name": "Łuków: City System Security - ul. Przemy...",
+    "city": "Łuków",
+    "windyId": "1793886294"
+  },
+  {
+    "slug": "kunow",
+    "url": "https://wideokamery.pl/kamery/kunow/",
+    "lat": 50.95389,
+    "lng": 21.28028,
+    "name": "Kunów",
+    "city": "Kunów",
+    "windyId": "1761976165"
+  },
+  {
+    "slug": "brzeg-plac-polonii-amerykanskiej",
+    "url": "https://wideokamery.pl/kamery/brzeg-plac-polonii-amerykanskiej/",
+    "lat": 50.86028,
+    "lng": 17.46944,
+    "name": "Brzeg: plac Polonii Amerykańskiej",
+    "city": "Brzeg",
+    "windyId": "1761523430"
+  },
+  {
+    "slug": "zarki-sanktuarium-matki-bozej-lesniowskiej-patronki-rodzin",
+    "url": "https://wideokamery.pl/kamery/zarki-sanktuarium-matki-bozej-lesniowskiej-patronki-rodzin/",
+    "lat": 50.63256,
+    "lng": 19.37631,
+    "name": "Żarki: Sanktuarium Matki Bożej Leśniowsk...",
+    "city": "Żarki",
+    "windyId": "1793886350"
+  },
+  {
+    "slug": "miedzna-parafia-kolo-pszczyny",
+    "url": "https://wideokamery.pl/kamery/miedzna-parafia-kolo-pszczyny/",
+    "lat": 49.97766,
+    "lng": 19.04903,
+    "name": "Miedźna: Parafia - koło Pszczyny",
+    "city": "Miedźna",
+    "windyId": "1668172111"
+  },
+  {
+    "slug": "elk-north-west",
+    "url": "https://wideokamery.pl/kamery/elk-north-west/",
+    "lat": 53.80287,
+    "lng": 22.34672,
+    "name": "Ełk",
+    "city": "Ełk",
+    "windyId": "1762863312"
+  },
+  {
+    "slug": "brzozow",
+    "url": "https://wideokamery.pl/kamery/brzozow/",
+    "lat": 49.70278,
+    "lng": 22.01917,
+    "name": "Brzozów",
+    "city": "Brzozów",
+    "windyId": "1761524461"
+  },
+  {
+    "slug": "miedzyzdroje-north",
+    "url": "https://wideokamery.pl/kamery/miedzyzdroje-north/",
+    "lat": 53.93196,
+    "lng": 14.44564,
+    "name": "Międzyzdroje",
+    "city": "Międzyzdroje",
+    "windyId": "1793891281"
+  },
+  {
+    "slug": "kowal",
+    "url": "https://wideokamery.pl/kamery/kowal/",
+    "lat": 52.53056,
+    "lng": 19.14972,
+    "name": "Kowal",
+    "city": "Kowal",
+    "windyId": "1761863399"
+  },
+  {
+    "slug": "skala-rynek-na-zywo",
+    "url": "https://wideokamery.pl/kamery/skala-rynek-na-zywo/",
+    "lat": 50.23041,
+    "lng": 19.85368,
+    "name": "Skała: Rynek",
+    "city": "Skała",
+    "windyId": "1793886312"
+  },
+  {
+    "slug": "narol-rynek-w-narolu-na-zywo",
+    "url": "https://wideokamery.pl/kamery/narol-rynek-w-narolu-na-zywo/",
+    "lat": 50.34879,
+    "lng": 23.32758,
+    "name": "Narol: Rynek w Narolu",
+    "city": "Narol",
+    "windyId": "1793886332"
+  },
+  {
+    "slug": "jaworzno-jelen-rzymskokatolicka-parafia-swietego-krzyza-w-jaworznie-jeleniu",
+    "url": "https://wideokamery.pl/kamery/jaworzno-jelen-rzymskokatolicka-parafia-swietego-krzyza-w-jaworznie-jeleniu/",
+    "lat": 50.16493,
+    "lng": 19.24008,
+    "name": "Jaworzno: Jelen: Rzymskokatolicka Parafi...",
+    "city": "Jaworzno",
+    "windyId": "1668172187"
+  },
+  {
+    "slug": "bydgoszcz",
+    "url": "https://wideokamery.pl/kamery/bydgoszcz/",
+    "lat": 53.12233,
+    "lng": 17.99939,
+    "name": "Bydgoszcz",
+    "city": "Bydgoszcz",
+    "windyId": "1793889410"
+  },
+  {
+    "slug": "opole-north-aleja-gwiazd-festiwalu-polskiej-piosenki",
+    "url": "https://wideokamery.pl/kamery/opole-north-aleja-gwiazd-festiwalu-polskiej-piosenki/",
+    "lat": 50.66857,
+    "lng": 17.92268,
+    "name": "Opole: Aleja Gwiazd Festiwalu Polskiej P...",
+    "city": "Opole",
+    "windyId": "1793891270"
+  },
+  {
+    "slug": "strzelce-krajenskie-rynek-miejski-w-strzelcach-krajenskich",
+    "url": "https://wideokamery.pl/kamery/strzelce-krajenskie-rynek-miejski-w-strzelcach-krajenskich/",
+    "lat": 52.87832,
+    "lng": 15.53311,
+    "name": "Strzelce Krajeńskie: Rynek Miejski w Str...",
+    "city": "Strzelce Krajeńskie",
+    "windyId": "1793886353"
+  },
+  {
+    "slug": "garbatka-letnisko-widok-na-zywo-na-skwer",
+    "url": "https://wideokamery.pl/kamery/garbatka-letnisko-widok-na-zywo-na-skwer/",
+    "lat": 51.49146,
+    "lng": 21.62485,
+    "name": "Garbatka-Letnisko: Widok na żywo na skwe...",
+    "city": "Garbatka-Letnisko",
+    "windyId": "1793886287"
+  },
+  {
+    "slug": "krakow-wawel-royal-castle",
+    "url": "https://wideokamery.pl/kamery/krakow-wawel-royal-castle/",
+    "lat": 50.05197,
+    "lng": 19.93148,
+    "name": "Kraków: Wawel Royal Castle",
+    "city": "Kraków",
+    "windyId": "1793892501"
+  },
+  {
+    "slug": "baborow",
+    "url": "https://wideokamery.pl/kamery/baborow/",
+    "lat": 50.15806,
+    "lng": 17.98556,
+    "name": "Baborów",
+    "city": "Baborów",
+    "windyId": "1760960525"
+  },
+  {
+    "slug": "pasieka-bociany-na-zywo",
+    "url": "https://wideokamery.pl/kamery/pasieka-bociany-na-zywo/",
+    "lat": 52.24588,
+    "lng": 19.58682,
+    "name": "Pasieka: Bociany",
+    "city": "Pasieka",
+    "windyId": "1793886343"
+  },
+  {
+    "slug": "strzyzewice-lotnisko-leszno-epls-na-zywo",
+    "url": "https://wideokamery.pl/kamery/strzyzewice-lotnisko-leszno-epls-na-zywo/",
+    "lat": 51.8342,
+    "lng": 16.5204,
+    "name": "Strzyzewice: Lotnisko Leszno (EPLS)",
+    "city": "Strzyzewice",
+    "windyId": "1793886316"
+  },
+  {
+    "slug": "humniska-parafia-niepokalanego-poczecia-najswietszej-maryi-panny",
+    "url": "https://wideokamery.pl/kamery/humniska-parafia-niepokalanego-poczecia-najswietszej-maryi-panny/",
+    "lat": 49.67292,
+    "lng": 22.05157,
+    "name": "Humniska: Parafia Niepokalanego Poczęcia...",
+    "city": "Humniska",
+    "windyId": "1668166469"
+  },
+  {
+    "slug": "debowiec-rynek-na-zywo",
+    "url": "https://wideokamery.pl/kamery/debowiec-rynek-na-zywo/",
+    "lat": 49.68249,
+    "lng": 21.46425,
+    "name": "Dębowiec: Rynek",
+    "city": "Dębowiec",
+    "windyId": "1793886342"
+  },
+  {
+    "slug": "trzcinica-karpacka-troja-w-trzcinicy-na-zywo",
+    "url": "https://wideokamery.pl/kamery/trzcinica-karpacka-troja-w-trzcinicy-na-zywo/",
+    "lat": 49.73205,
+    "lng": 21.43321,
+    "name": "Trzcinica: Karpacka Troja w Trzcinicy",
+    "city": "Trzcinica",
+    "windyId": "1793879548"
+  },
+  {
+    "slug": "korytnica-natezenie-ruchu-i-pogoda-na-drodze-krajowej-w-przyglowie",
+    "url": "https://wideokamery.pl/kamery/korytnica-natezenie-ruchu-i-pogoda-na-drodze-krajowej-w-przyglowie/",
+    "lat": 51.38378,
+    "lng": 19.79722,
+    "name": "Korytnica: Natężenie ruchu i pogoda na d...",
+    "city": "Korytnica",
+    "windyId": "1793886307"
+  },
+  {
+    "slug": "kozubszczyzna-gniazdo-na-stodole",
+    "url": "https://wideokamery.pl/kamery/kozubszczyzna-gniazdo-na-stodole/",
+    "lat": 51.22412,
+    "lng": 22.41451,
+    "name": "Kozubszczyzna: Gniazdo na stodole",
+    "city": "Kozubszczyzna",
+    "windyId": "1793886341"
+  },
+  {
+    "slug": "lubawka-na-zywo",
+    "url": "https://wideokamery.pl/kamery/lubawka-na-zywo/",
+    "lat": 50.71323,
+    "lng": 16.01124,
+    "name": "Lubawka",
+    "city": "Lubawka",
+    "windyId": "1793886298"
+  },
+  {
+    "slug": "popowo-south-west",
+    "url": "https://wideokamery.pl/kamery/popowo-south-west/",
+    "lat": 53.62313,
+    "lng": 22.40631,
+    "name": "Popowo",
+    "city": "Popowo",
+    "windyId": "1761580980"
+  },
+  {
+    "slug": "piaski-budka-legowa-na-zywo",
+    "url": "https://wideokamery.pl/kamery/piaski-budka-legowa-na-zywo/",
+    "lat": 51.13802,
+    "lng": 22.85307,
+    "name": "Piaski: Budka lęgowa",
+    "city": "Piaski",
+    "windyId": "1793886335"
+  },
+  {
+    "slug": "czchow-rynek",
+    "url": "https://wideokamery.pl/kamery/czchow-rynek/",
+    "lat": 49.83385,
+    "lng": 20.67295,
+    "name": "Czchów: Rynek",
+    "city": "Czchów",
+    "windyId": "1793886308"
+  },
+  {
+    "slug": "kozubszczyzna-bociany-online-oczko-wodne",
+    "url": "https://wideokamery.pl/kamery/kozubszczyzna-bociany-online-oczko-wodne/",
+    "lat": 51.22475,
+    "lng": 22.4241,
+    "name": "Kozubszczyzna: Bociany online - Oczko wo...",
+    "city": "Kozubszczyzna",
+    "windyId": "1793886338"
+  },
+  {
+    "slug": "jasien-poreba-spytkowska-na-zywo",
+    "url": "https://wideokamery.pl/kamery/jasien-poreba-spytkowska-na-zywo/",
+    "lat": 49.93932,
+    "lng": 20.55437,
+    "name": "Jasień: Poręba Spytkowska",
+    "city": "Jasień",
+    "windyId": "1793886309"
+  },
+  {
+    "slug": "piotrkow-trybunalski-bazylika-mniejsza-pw-sw-jakuba-fara-w-piotrkowie-trybunalskim",
+    "url": "https://wideokamery.pl/kamery/piotrkow-trybunalski-bazylika-mniejsza-pw-sw-jakuba-fara-w-piotrkowie-trybunalskim/",
+    "lat": 51.40772,
+    "lng": 19.69759,
+    "name": "Piotrków Trybunalski: Bazylika Mniejsza ...",
+    "city": "Piotrków Trybunalski",
+    "windyId": "1793886310"
+  },
+  {
+    "slug": "kozubszczyzna-bocianie-gniazda-na-brzozie-na-zywo",
+    "url": "https://wideokamery.pl/kamery/kozubszczyzna-bocianie-gniazda-na-brzozie-na-zywo/",
+    "lat": 51.2244,
+    "lng": 22.42456,
+    "name": "Kozubszczyzna: bocianie gniazda na brzoz...",
+    "city": "Kozubszczyzna",
+    "windyId": "1793886345"
+  },
+  {
+    "slug": "parzno-parafia-najswietszego-serca-pana-jezusa-w-parznie",
+    "url": "https://wideokamery.pl/kamery/parzno-parafia-najswietszego-serca-pana-jezusa-w-parznie/",
+    "lat": 51.38974,
+    "lng": 19.24879,
+    "name": "Parzno: Parafia Najświętszego Serca Pana...",
+    "city": "Parzno",
+    "windyId": "1793892519"
+  },
+  {
+    "slug": "zlotow-widok-na-zywo-z-okna-burmistrza-w-zlotowie",
+    "url": "https://wideokamery.pl/kamery/zlotow-widok-na-zywo-z-okna-burmistrza-w-zlotowie/",
+    "lat": 53.36402,
+    "lng": 17.04092,
+    "name": "Złotów: Widok na żywo z okna Burmistrza ...",
+    "city": "Złotów",
+    "windyId": "1793886284"
+  },
+  {
+    "slug": "karpacz-north-karpatka-i-and-ii-karpacz",
+    "url": "https://wideokamery.pl/kamery/karpacz-north-karpatka-i-and-ii-karpacz/",
+    "lat": 50.78121,
+    "lng": 15.74895,
+    "name": "Karpacz: Karpatka I & II Karpacz",
+    "city": "Karpacz",
+    "windyId": "1793884611"
+  },
+  {
+    "slug": "kozubszczyzna-bociany-online-wiata-owiec",
+    "url": "https://wideokamery.pl/kamery/kozubszczyzna-bociany-online-wiata-owiec/",
+    "lat": 51.22431,
+    "lng": 22.42505,
+    "name": "Kozubszczyzna: Bociany online - Wiata ow...",
+    "city": "Kozubszczyzna",
+    "windyId": "1793886339"
+  },
+  {
+    "slug": "skorzecin-rybaki-plaza-w-skorzecinie-na-zywo-arkadia-dom-wypoczynkowy",
+    "url": "https://wideokamery.pl/kamery/skorzecin-rybaki-plaza-w-skorzecinie-na-zywo-arkadia-dom-wypoczynkowy/",
+    "lat": 52.45484,
+    "lng": 17.89269,
+    "name": "Skorzecin-Rybaki: Plaża w Skorzęcinie na...",
+    "city": "Skorzecin-Rybaki",
+    "windyId": "1793886297"
+  },
+  {
+    "slug": "dlugie-jezioro-lipie-strzelce-krajenskie-lubuskie-poland",
+    "url": "https://wideokamery.pl/kamery/dlugie-jezioro-lipie-strzelce-krajenskie-lubuskie-poland/",
+    "lat": 52.91165,
+    "lng": 15.66709,
+    "name": "Długie: Jezioro Lipie - Strzelce Krajeńs...",
+    "city": "Długie",
+    "windyId": "1793886354"
+  },
+  {
+    "slug": "raciborz-north-east",
+    "url": "https://wideokamery.pl/kamery/raciborz-north-east/",
+    "lat": 50.09176,
+    "lng": 18.21929,
+    "name": "Racibórz",
+    "city": "Racibórz",
+    "windyId": "1793884516"
+  },
+  {
+    "slug": "glogow-stare-miasto-na-zywo",
+    "url": "https://wideokamery.pl/kamery/glogow-stare-miasto-na-zywo/",
+    "lat": 51.66324,
+    "lng": 16.08853,
+    "name": "Głogów: Stare miasto",
+    "city": "Głogów",
+    "windyId": "1793886325"
+  },
+  {
+    "slug": "toczylowo-jezioro-na-zywo",
+    "url": "https://wideokamery.pl/kamery/toczylowo-jezioro-na-zywo/",
+    "lat": 53.68162,
+    "lng": 22.48022,
+    "name": "Toczylowo: Jezioro",
+    "city": "Toczylowo",
+    "windyId": "1793886330"
+  },
+  {
+    "slug": "swinoujscie-north",
+    "url": "https://wideokamery.pl/kamery/swinoujscie-north/",
+    "lat": 53.9186,
+    "lng": 14.25844,
+    "name": "Świnoujście",
+    "city": "Świnoujście",
+    "windyId": "1793891376"
+  },
+  {
+    "slug": "goldap-stok-narciarski-piekna-gora",
+    "url": "https://wideokamery.pl/kamery/goldap-stok-narciarski-piekna-gora/",
+    "lat": 54.28644,
+    "lng": 22.29697,
+    "name": "Gołdap: Stok Narciarski - Piękna Góra",
+    "city": "Gołdap",
+    "windyId": "1793895507"
+  },
+  {
+    "slug": "brzozow-rynek-na-zywo",
+    "url": "https://wideokamery.pl/kamery/brzozow-rynek-na-zywo/",
+    "lat": 49.69667,
+    "lng": 22.02125,
+    "name": "Brzozów: Rynek",
+    "city": "Brzozów",
+    "windyId": "1793886299"
+  },
+  {
+    "slug": "bielsko-biala-south-west",
+    "url": "https://wideokamery.pl/kamery/bielsko-biala-south-west/",
+    "lat": 49.84945,
+    "lng": 19.08703,
+    "name": "Bielsko-Biała",
+    "city": "Bielsko-Biała",
+    "windyId": "1793893823"
+  },
+  {
+    "slug": "czchow-gmina",
+    "url": "https://wideokamery.pl/kamery/czchow-gmina/",
+    "lat": 49.83315,
+    "lng": 20.67715,
+    "name": "Czchów: Gmina",
+    "city": "Czchów",
+    "windyId": "1793886359"
+  },
+  {
+    "slug": "wolborz-kolegiata-sw-mikolaja",
+    "url": "https://wideokamery.pl/kamery/wolborz-kolegiata-sw-mikolaja/",
+    "lat": 51.50517,
+    "lng": 19.82987,
+    "name": "Wolbórz: Kolegiata św. Mikołaja",
+    "city": "Wolbórz",
+    "windyId": "1793886366"
+  },
+  {
+    "slug": "popowo-widok-ogolny-mwg-mazury-w-popowie",
+    "url": "https://wideokamery.pl/kamery/popowo-widok-ogolny-mwg-mazury-w-popowie/",
+    "lat": 53.62313,
+    "lng": 22.40563,
+    "name": "Popowo: Widok ogólny - MWG Mazury w Popo...",
+    "city": "Popowo",
+    "windyId": "1668171583"
+  },
+  {
+    "slug": "andrychow",
+    "url": "https://wideokamery.pl/kamery/andrychow/",
+    "lat": 49.85367,
+    "lng": 19.34072,
+    "name": "Andrychów",
+    "city": "Andrychów",
+    "windyId": "1793892499"
+  },
+  {
+    "slug": "glogow-zamek-i-most-na-zywo",
+    "url": "https://wideokamery.pl/kamery/glogow-zamek-i-most-na-zywo/",
+    "lat": 51.66548,
+    "lng": 16.09246,
+    "name": "Głogów: Zamek i most",
+    "city": "Głogów",
+    "windyId": "1793886326"
+  },
+  {
+    "slug": "rabien-rabien-staw-na-zywo",
+    "url": "https://wideokamery.pl/kamery/rabien-rabien-staw-na-zywo/",
+    "lat": 51.79095,
+    "lng": 19.31278,
+    "name": "Rabien: Staw",
+    "city": "Rabien",
+    "windyId": "1793886320"
+  },
+  {
+    "slug": "jelenia-gora-east-plac-piastowski",
+    "url": "https://wideokamery.pl/kamery/jelenia-gora-east-plac-piastowski/",
+    "lat": 50.86531,
+    "lng": 15.68113,
+    "name": "Jelenia Góra: plac Piastowski",
+    "city": "Jelenia Góra",
+    "windyId": "1793891380"
+  },
+  {
+    "slug": "starachowice",
+    "url": "https://wideokamery.pl/kamery/starachowice/",
+    "lat": 51.04159,
+    "lng": 21.08416,
+    "name": "Starachowice",
+    "city": "Starachowice",
+    "windyId": "1793892500"
+  },
+  {
+    "slug": "wolborz-parafia-swietego-mikolaja-w-wolborzu",
+    "url": "https://wideokamery.pl/kamery/wolborz-parafia-swietego-mikolaja-w-wolborzu/",
+    "lat": 51.50537,
+    "lng": 19.83085,
+    "name": "Wolbórz: Parafia Świętego Mikołaja w Wol...",
+    "city": "Wolbórz",
+    "windyId": "1793886302"
+  },
+  {
+    "slug": "czestochowa-west-plac-pod-szczytem-kaplica-cudownego-obrazu-czarnej-madonny-matki-bozej-czestochowskiej-sanktuarium-matki-bozej-czestochowskiej-jasna-gora",
+    "url": "https://wideokamery.pl/kamery/czestochowa-west-plac-pod-szczytem-kaplica-cudownego-obrazu-czarnej-madonny-matki-bozej-czestochowskiej-sanktuarium-matki-bozej-czestochowskiej-jasna-gora/",
+    "lat": 50.81233,
+    "lng": 19.10028,
+    "name": "Częstochowa: Plac pod Szczytem - Kaplica...",
+    "city": "Częstochowa",
+    "windyId": "1793893810"
+  },
+  {
+    "slug": "grajewo-parafia-pw-sw-jana-pawla-ii-w-grajewie-oltarz",
+    "url": "https://wideokamery.pl/kamery/grajewo-parafia-pw-sw-jana-pawla-ii-w-grajewie-oltarz/",
+    "lat": 53.64152,
+    "lng": 22.44484,
+    "name": "Grajewo: Parafia pw. św. Jana Pawła II w...",
+    "city": "Grajewo",
+    "windyId": "1793886318"
+  },
+  {
+    "slug": "kalwaria-zebrzydowska-kosciol-sw-jozefa-w-kalwarii-zebrzydowskiej",
+    "url": "https://wideokamery.pl/kamery/kalwaria-zebrzydowska-kosciol-sw-jozefa-w-kalwarii-zebrzydowskiej/",
+    "lat": 49.86684,
+    "lng": 19.67675,
+    "name": "Kalwaria Zebrzydowska: Kościół św. Józef...",
+    "city": "Kalwaria Zebrzydowska",
+    "windyId": "1793893820"
+  },
+  {
+    "slug": "krasocin",
+    "url": "https://wideokamery.pl/kamery/krasocin/",
+    "lat": 50.89219,
+    "lng": 20.11998,
+    "name": "Krasocin",
+    "city": "Krasocin",
+    "windyId": "1793893827"
+  }
+]

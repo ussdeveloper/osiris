@@ -269,6 +269,11 @@ unrelated sites with no way to find them.
 OSIRIS links every one of them straight through to the operator who runs it, which is
 also how bekijkhet.nu asks to be read.
 
+**Polish cameras** — the Polish layer is built from [wideokamery.pl](https://wideokamery.pl/kraje/pl/),
+a hand-kept catalogue of live cameras across the country. Each entry carries the
+coordinates the site publishes for its own weather widget and plays through Windy's
+public player; OSIRIS keeps every camera linked back to its wideokamery.pl page.
+
 **OI** — the method behind OI follows [MiroFish](https://github.com/666ghj/MiroFish),
 the open-source swarm-intelligence prediction engine: seed a parallel world from real
 material, populate it with agents, let them interact while variables are injected, and

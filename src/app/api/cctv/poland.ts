@@ -1,4 +1,5 @@
 import type { CctvCamera } from './types';
+import { WIDEOKAMERY_PL_CAMERAS } from './poland-wideokamery.generated';
 
 // Source: nadmorski24.pl — HLS streams via ls.tkchopin.pl
 const NADMORSKI_CAMERAS: CctvCamera[] = [
@@ -93,6 +94,7 @@ const POLAND_CAMERAS: CctvCamera[] = [
     source: 'Urząd Miasta Słupsk',
   },
   ...NADMORSKI_CAMERAS,
+  ...WIDEOKAMERY_PL_CAMERAS,
 ];
 
 export async function fetchPolandCameras(): Promise<CctvCamera[]> {
